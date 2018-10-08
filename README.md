@@ -20,7 +20,7 @@ Pour Faire un aprentissage : p
 Nombre maximal d'itération :1000  (vous pouvez tester d ' autre Nbre mais attention Overfitting and Underfitting)
 
 Erreur quadratique tolerable  : 0.00001 
-//
+
 Nom du fichier pour enregistrer les poids de l architecture obtenu : poids.txt (par exemple)
 
 Recuperer les poids enregistrer : poids.txt
