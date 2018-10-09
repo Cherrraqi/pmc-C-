@@ -1,0 +1,2166 @@
+[3;J[H[2J            ______________________________________________________________________________________________
+            |                                                                                            |
+            |                                              RNA (PMC)                                     |
+            |                       régle d'apprentissage :la rétropropgation des erreurs                |
+            |                                                                                            |
+            |                                                                                            |
+            |                              réalisé par :                                                 |
+            |                                                                                            |
+            |                                                                                            |
+            |                                      *CHERRAQI ELBOUAZZAOUI                                |
+            |                                                                                            |
+            |                                                                                            |
+            |                                                                                            |
+            |                                                                                            |
+            |                                                                                            |
+            |____________________________________________________________________________________________|
+Nom du fichier contenant les entrées et les valeurs désiréés du reseau--------------->Le nombre d'exemple à apprendre ----------------------------------------------------->Le nombre des éléments des vecteurs objets ------------------------------------------>Le nombre de nuerons de la couche cachée--------------------------------------------->Le nombre de nuerons de la couche de sortie------------------------------------------>
+pour faire l'apprentissage entrer p
+Le nombre d'itération maximum--------------------------------------------------------------->l'erreur quadratique tolérable observée sur l'ensemble des neurons de la couche de sortie--->itération N° 1 Erreur Quadratique Moyenne 0.0730953
+0.372840 secondes 
+itération N° 2 Erreur Quadratique Moyenne 0.0778802
+0.367382 secondes 
+itération N° 3 Erreur Quadratique Moyenne 0.0642669
+0.367230 secondes 
+itération N° 4 Erreur Quadratique Moyenne 0.0603119
+0.379982 secondes 
+itération N° 5 Erreur Quadratique Moyenne 0.0571795
+0.372345 secondes 
+itération N° 6 Erreur Quadratique Moyenne 0.0545483
+0.369819 secondes 
+itération N° 7 Erreur Quadratique Moyenne 0.0517233
+0.384024 secondes 
+itération N° 8 Erreur Quadratique Moyenne 0.0483862
+0.380538 secondes 
+itération N° 9 Erreur Quadratique Moyenne 0.0450253
+0.372529 secondes 
+itération N° 10 Erreur Quadratique Moyenne 0.0421896
+0.372504 secondes 
+itération N° 11 Erreur Quadratique Moyenne 0.0395444
+0.370171 secondes 
+itération N° 12 Erreur Quadratique Moyenne 0.0370879
+0.382535 secondes 
+itération N° 13 Erreur Quadratique Moyenne 0.0349813
+0.377402 secondes 
+itération N° 14 Erreur Quadratique Moyenne 0.0332554
+0.368422 secondes 
+itération N° 15 Erreur Quadratique Moyenne 0.03176
+0.365818 secondes 
+itération N° 16 Erreur Quadratique Moyenne 0.0303129
+0.472567 secondes 
+itération N° 17 Erreur Quadratique Moyenne 0.028999
+0.378382 secondes 
+itération N° 18 Erreur Quadratique Moyenne 0.0278514
+0.366682 secondes 
+itération N° 19 Erreur Quadratique Moyenne 0.0268143
+0.365537 secondes 
+itération N° 20 Erreur Quadratique Moyenne 0.0258823
+0.374363 secondes 
+itération N° 21 Erreur Quadratique Moyenne 0.0250604
+0.374447 secondes 
+itération N° 22 Erreur Quadratique Moyenne 0.0243315
+0.365015 secondes 
+itération N° 23 Erreur Quadratique Moyenne 0.0236431
+0.365922 secondes 
+itération N° 24 Erreur Quadratique Moyenne 0.0229601
+0.364473 secondes 
+itération N° 25 Erreur Quadratique Moyenne 0.0222638
+0.364431 secondes 
+itération N° 26 Erreur Quadratique Moyenne 0.0215251
+0.364854 secondes 
+itération N° 27 Erreur Quadratique Moyenne 0.0207319
+0.369828 secondes 
+itération N° 28 Erreur Quadratique Moyenne 0.0199851
+0.378159 secondes 
+itération N° 29 Erreur Quadratique Moyenne 0.0195092
+0.370158 secondes 
+itération N° 30 Erreur Quadratique Moyenne 0.0192045
+0.371472 secondes 
+itération N° 31 Erreur Quadratique Moyenne 0.0189196
+0.373931 secondes 
+itération N° 32 Erreur Quadratique Moyenne 0.0186309
+0.374272 secondes 
+itération N° 33 Erreur Quadratique Moyenne 0.018355
+0.376417 secondes 
+itération N° 34 Erreur Quadratique Moyenne 0.0180844
+0.372577 secondes 
+itération N° 35 Erreur Quadratique Moyenne 0.0178248
+0.370915 secondes 
+itération N° 36 Erreur Quadratique Moyenne 0.0175761
+0.376840 secondes 
+itération N° 37 Erreur Quadratique Moyenne 0.0173434
+0.370168 secondes 
+itération N° 38 Erreur Quadratique Moyenne 0.0171213
+0.367877 secondes 
+itération N° 39 Erreur Quadratique Moyenne 0.0169131
+0.367062 secondes 
+itération N° 40 Erreur Quadratique Moyenne 0.0167183
+0.365509 secondes 
+itération N° 41 Erreur Quadratique Moyenne 0.0165347
+0.365465 secondes 
+itération N° 42 Erreur Quadratique Moyenne 0.0163642
+0.373455 secondes 
+itération N° 43 Erreur Quadratique Moyenne 0.0162045
+0.364518 secondes 
+itération N° 44 Erreur Quadratique Moyenne 0.0160554
+0.365991 secondes 
+itération N° 45 Erreur Quadratique Moyenne 0.0159166
+0.364656 secondes 
+itération N° 46 Erreur Quadratique Moyenne 0.0157878
+0.364535 secondes 
+itération N° 47 Erreur Quadratique Moyenne 0.0156661
+0.364784 secondes 
+itération N° 48 Erreur Quadratique Moyenne 0.0155529
+0.364584 secondes 
+itération N° 49 Erreur Quadratique Moyenne 0.0154476
+0.364412 secondes 
+itération N° 50 Erreur Quadratique Moyenne 0.0153496
+0.397177 secondes 
+itération N° 51 Erreur Quadratique Moyenne 0.0152551
+0.364562 secondes 
+itération N° 52 Erreur Quadratique Moyenne 0.0151667
+0.364366 secondes 
+itération N° 53 Erreur Quadratique Moyenne 0.0150835
+0.370834 secondes 
+itération N° 54 Erreur Quadratique Moyenne 0.0150051
+0.365816 secondes 
+itération N° 55 Erreur Quadratique Moyenne 0.0149299
+0.371303 secondes 
+itération N° 56 Erreur Quadratique Moyenne 0.0149006
+0.370486 secondes 
+itération N° 57 Erreur Quadratique Moyenne 0.0147939
+0.370236 secondes 
+itération N° 58 Erreur Quadratique Moyenne 0.0147297
+0.371231 secondes 
+itération N° 59 Erreur Quadratique Moyenne 0.0146672
+0.370274 secondes 
+itération N° 60 Erreur Quadratique Moyenne 0.0146081
+0.380238 secondes 
+itération N° 61 Erreur Quadratique Moyenne 0.0145511
+0.371086 secondes 
+itération N° 62 Erreur Quadratique Moyenne 0.0139659
+0.370136 secondes 
+itération N° 63 Erreur Quadratique Moyenne 0.0144668
+0.371536 secondes 
+itération N° 64 Erreur Quadratique Moyenne 0.0145874
+0.370912 secondes 
+itération N° 65 Erreur Quadratique Moyenne 0.0143792
+0.370337 secondes 
+itération N° 66 Erreur Quadratique Moyenne 0.0143563
+0.371878 secondes 
+itération N° 67 Erreur Quadratique Moyenne 0.0142813
+0.371698 secondes 
+itération N° 68 Erreur Quadratique Moyenne 0.0142276
+0.370899 secondes 
+itération N° 69 Erreur Quadratique Moyenne 0.0142466
+0.376616 secondes 
+itération N° 70 Erreur Quadratique Moyenne 0.0141677
+0.370870 secondes 
+itération N° 71 Erreur Quadratique Moyenne 0.0141209
+0.371974 secondes 
+itération N° 72 Erreur Quadratique Moyenne 0.014133
+0.370179 secondes 
+itération N° 73 Erreur Quadratique Moyenne 0.0141632
+0.370524 secondes 
+itération N° 74 Erreur Quadratique Moyenne 0.0140195
+0.375633 secondes 
+itération N° 75 Erreur Quadratique Moyenne 0.0140133
+0.372934 secondes 
+itération N° 76 Erreur Quadratique Moyenne 0.0139248
+0.380385 secondes 
+itération N° 77 Erreur Quadratique Moyenne 0.0139026
+0.376736 secondes 
+itération N° 78 Erreur Quadratique Moyenne 0.0138792
+0.370131 secondes 
+itération N° 79 Erreur Quadratique Moyenne 0.0138905
+0.407502 secondes 
+itération N° 80 Erreur Quadratique Moyenne 0.0138297
+0.385232 secondes 
+itération N° 81 Erreur Quadratique Moyenne 0.0138274
+0.375235 secondes 
+itération N° 82 Erreur Quadratique Moyenne 0.0137704
+0.371761 secondes 
+itération N° 83 Erreur Quadratique Moyenne 0.0138014
+0.372537 secondes 
+itération N° 84 Erreur Quadratique Moyenne 0.0139961
+0.370563 secondes 
+itération N° 85 Erreur Quadratique Moyenne 0.0136473
+0.380350 secondes 
+itération N° 86 Erreur Quadratique Moyenne 0.0136244
+0.400193 secondes 
+itération N° 87 Erreur Quadratique Moyenne 0.0136051
+0.375905 secondes 
+itération N° 88 Erreur Quadratique Moyenne 0.0135699
+0.373574 secondes 
+itération N° 89 Erreur Quadratique Moyenne 0.0136151
+0.368574 secondes 
+itération N° 90 Erreur Quadratique Moyenne 0.0135155
+0.375530 secondes 
+itération N° 91 Erreur Quadratique Moyenne 0.0135154
+0.370189 secondes 
+itération N° 92 Erreur Quadratique Moyenne 0.0134659
+0.378657 secondes 
+itération N° 93 Erreur Quadratique Moyenne 0.0134338
+0.366629 secondes 
+itération N° 94 Erreur Quadratique Moyenne 0.0134145
+0.365178 secondes 
+itération N° 95 Erreur Quadratique Moyenne 0.0133939
+0.387347 secondes 
+itération N° 96 Erreur Quadratique Moyenne 0.0133622
+0.364996 secondes 
+itération N° 97 Erreur Quadratique Moyenne 0.0133407
+0.366968 secondes 
+itération N° 98 Erreur Quadratique Moyenne 0.0133117
+0.377694 secondes 
+itération N° 99 Erreur Quadratique Moyenne 0.0133332
+0.370009 secondes 
+itération N° 100 Erreur Quadratique Moyenne 0.0132514
+0.376909 secondes 
+itération N° 101 Erreur Quadratique Moyenne 0.0132168
+0.379686 secondes 
+itération N° 102 Erreur Quadratique Moyenne 0.0132025
+0.370064 secondes 
+itération N° 103 Erreur Quadratique Moyenne 0.0131643
+0.384176 secondes 
+itération N° 104 Erreur Quadratique Moyenne 0.0131434
+0.374597 secondes 
+itération N° 105 Erreur Quadratique Moyenne 0.0131017
+0.375852 secondes 
+itération N° 106 Erreur Quadratique Moyenne 0.013084
+0.369909 secondes 
+itération N° 107 Erreur Quadratique Moyenne 0.0130545
+0.371437 secondes 
+itération N° 108 Erreur Quadratique Moyenne 0.0130145
+0.370181 secondes 
+itération N° 109 Erreur Quadratique Moyenne 0.0129978
+0.374837 secondes 
+itération N° 110 Erreur Quadratique Moyenne 0.0129586
+0.376998 secondes 
+itération N° 111 Erreur Quadratique Moyenne 0.0129363
+0.375381 secondes 
+itération N° 112 Erreur Quadratique Moyenne 0.0129254
+0.373854 secondes 
+itération N° 113 Erreur Quadratique Moyenne 0.0128673
+0.370883 secondes 
+itération N° 114 Erreur Quadratique Moyenne 0.0128374
+0.371022 secondes 
+itération N° 115 Erreur Quadratique Moyenne 0.0128093
+0.369911 secondes 
+itération N° 116 Erreur Quadratique Moyenne 0.012777
+0.372012 secondes 
+itération N° 117 Erreur Quadratique Moyenne 0.0127402
+0.373841 secondes 
+itération N° 118 Erreur Quadratique Moyenne 0.012701
+0.367470 secondes 
+itération N° 119 Erreur Quadratique Moyenne 0.0126527
+0.368416 secondes 
+itération N° 120 Erreur Quadratique Moyenne 0.0126319
+0.370253 secondes 
+itération N° 121 Erreur Quadratique Moyenne 0.0125612
+0.392688 secondes 
+itération N° 122 Erreur Quadratique Moyenne 0.0124967
+0.380822 secondes 
+itération N° 123 Erreur Quadratique Moyenne 0.0124191
+0.377599 secondes 
+itération N° 124 Erreur Quadratique Moyenne 0.0123141
+0.374346 secondes 
+itération N° 125 Erreur Quadratique Moyenne 0.01216
+0.376657 secondes 
+itération N° 126 Erreur Quadratique Moyenne 0.0118995
+0.374557 secondes 
+itération N° 127 Erreur Quadratique Moyenne 0.0114499
+0.370079 secondes 
+itération N° 128 Erreur Quadratique Moyenne 0.01086
+0.368849 secondes 
+itération N° 129 Erreur Quadratique Moyenne 0.0106057
+0.369275 secondes 
+itération N° 130 Erreur Quadratique Moyenne 0.010609
+0.371783 secondes 
+itération N° 131 Erreur Quadratique Moyenne 0.01064
+0.375482 secondes 
+itération N° 132 Erreur Quadratique Moyenne 0.0106599
+0.372576 secondes 
+itération N° 133 Erreur Quadratique Moyenne 0.0107115
+0.378106 secondes 
+itération N° 134 Erreur Quadratique Moyenne 0.0106743
+0.369839 secondes 
+itération N° 135 Erreur Quadratique Moyenne 0.0106621
+0.366954 secondes 
+itération N° 136 Erreur Quadratique Moyenne 0.0106534
+0.364382 secondes 
+itération N° 137 Erreur Quadratique Moyenne 0.0106438
+0.364379 secondes 
+itération N° 138 Erreur Quadratique Moyenne 0.0106281
+0.367210 secondes 
+itération N° 139 Erreur Quadratique Moyenne 0.0106135
+0.365478 secondes 
+itération N° 140 Erreur Quadratique Moyenne 0.010598
+0.367803 secondes 
+itération N° 141 Erreur Quadratique Moyenne 0.0105807
+0.370662 secondes 
+itération N° 142 Erreur Quadratique Moyenne 0.0105636
+0.370021 secondes 
+itération N° 143 Erreur Quadratique Moyenne 0.0105451
+0.370045 secondes 
+itération N° 144 Erreur Quadratique Moyenne 0.0105271
+0.370523 secondes 
+itération N° 145 Erreur Quadratique Moyenne 0.0105088
+0.369883 secondes 
+itération N° 146 Erreur Quadratique Moyenne 0.0104925
+0.371231 secondes 
+itération N° 147 Erreur Quadratique Moyenne 0.0104722
+0.370634 secondes 
+itération N° 148 Erreur Quadratique Moyenne 0.0104538
+0.385717 secondes 
+itération N° 149 Erreur Quadratique Moyenne 0.0104359
+0.371712 secondes 
+itération N° 150 Erreur Quadratique Moyenne 0.0104176
+0.369840 secondes 
+itération N° 151 Erreur Quadratique Moyenne 0.0104094
+0.369256 secondes 
+itération N° 152 Erreur Quadratique Moyenne 0.0103822
+0.383237 secondes 
+itération N° 153 Erreur Quadratique Moyenne 0.0103664
+0.372005 secondes 
+itération N° 154 Erreur Quadratique Moyenne 0.0103482
+0.378117 secondes 
+itération N° 155 Erreur Quadratique Moyenne 0.0103304
+0.376233 secondes 
+itération N° 156 Erreur Quadratique Moyenne 0.0103126
+0.379176 secondes 
+itération N° 157 Erreur Quadratique Moyenne 0.0102951
+0.371477 secondes 
+itération N° 158 Erreur Quadratique Moyenne 0.0102778
+0.369830 secondes 
+itération N° 159 Erreur Quadratique Moyenne 0.0102606
+0.370611 secondes 
+itération N° 160 Erreur Quadratique Moyenne 0.0102437
+0.374144 secondes 
+itération N° 161 Erreur Quadratique Moyenne 0.0102269
+0.372879 secondes 
+itération N° 162 Erreur Quadratique Moyenne 0.0102096
+0.398399 secondes 
+itération N° 163 Erreur Quadratique Moyenne 0.0101932
+0.373336 secondes 
+itération N° 164 Erreur Quadratique Moyenne 0.0101767
+0.369874 secondes 
+itération N° 165 Erreur Quadratique Moyenne 0.010161
+0.377127 secondes 
+itération N° 166 Erreur Quadratique Moyenne 0.010145
+0.371289 secondes 
+itération N° 167 Erreur Quadratique Moyenne 0.010129
+0.371853 secondes 
+itération N° 168 Erreur Quadratique Moyenne 0.0101132
+0.387972 secondes 
+itération N° 169 Erreur Quadratique Moyenne 0.0100978
+0.378173 secondes 
+itération N° 170 Erreur Quadratique Moyenne 0.010082
+0.375108 secondes 
+itération N° 171 Erreur Quadratique Moyenne 0.0100664
+0.380555 secondes 
+itération N° 172 Erreur Quadratique Moyenne 0.0100517
+0.373993 secondes 
+itération N° 173 Erreur Quadratique Moyenne 0.0100314
+0.372249 secondes 
+itération N° 174 Erreur Quadratique Moyenne 0.0100201
+0.373213 secondes 
+itération N° 175 Erreur Quadratique Moyenne 0.0100058
+0.369942 secondes 
+itération N° 176 Erreur Quadratique Moyenne 0.00999098
+0.375481 secondes 
+itération N° 177 Erreur Quadratique Moyenne 0.00997851
+0.376565 secondes 
+itération N° 178 Erreur Quadratique Moyenne 0.00996453
+0.392317 secondes 
+itération N° 179 Erreur Quadratique Moyenne 0.0099506
+0.371784 secondes 
+itération N° 180 Erreur Quadratique Moyenne 0.00993652
+0.389113 secondes 
+itération N° 181 Erreur Quadratique Moyenne 0.00992232
+0.373861 secondes 
+itération N° 182 Erreur Quadratique Moyenne 0.00990916
+0.381263 secondes 
+itération N° 183 Erreur Quadratique Moyenne 0.00989565
+0.368836 secondes 
+itération N° 184 Erreur Quadratique Moyenne 0.00988265
+0.369885 secondes 
+itération N° 185 Erreur Quadratique Moyenne 0.00986348
+0.371226 secondes 
+itération N° 186 Erreur Quadratique Moyenne 0.00985473
+0.368615 secondes 
+itération N° 187 Erreur Quadratique Moyenne 0.00984253
+0.368836 secondes 
+itération N° 188 Erreur Quadratique Moyenne 0.00982963
+0.368987 secondes 
+itération N° 189 Erreur Quadratique Moyenne 0.00981758
+0.372923 secondes 
+itération N° 190 Erreur Quadratique Moyenne 0.00976715
+0.368773 secondes 
+itération N° 191 Erreur Quadratique Moyenne 0.00979564
+0.375491 secondes 
+itération N° 192 Erreur Quadratique Moyenne 0.00978389
+0.370582 secondes 
+itération N° 193 Erreur Quadratique Moyenne 0.00977181
+0.367998 secondes 
+itération N° 194 Erreur Quadratique Moyenne 0.00975899
+0.389628 secondes 
+itération N° 195 Erreur Quadratique Moyenne 0.00974764
+0.372414 secondes 
+itération N° 196 Erreur Quadratique Moyenne 0.00973564
+0.372696 secondes 
+itération N° 197 Erreur Quadratique Moyenne 0.00972364
+0.369592 secondes 
+itération N° 198 Erreur Quadratique Moyenne 0.00971061
+0.367804 secondes 
+itération N° 199 Erreur Quadratique Moyenne 0.00969836
+0.372209 secondes 
+itération N° 200 Erreur Quadratique Moyenne 0.00968205
+0.370783 secondes 
+itération N° 201 Erreur Quadratique Moyenne 0.00967583
+0.369477 secondes 
+itération N° 202 Erreur Quadratique Moyenne 0.00966518
+0.369658 secondes 
+itération N° 203 Erreur Quadratique Moyenne 0.0096562
+0.396477 secondes 
+itération N° 204 Erreur Quadratique Moyenne 0.00964548
+0.383734 secondes 
+itération N° 205 Erreur Quadratique Moyenne 0.00963461
+0.365815 secondes 
+itération N° 206 Erreur Quadratique Moyenne 0.00962419
+0.365624 secondes 
+itération N° 207 Erreur Quadratique Moyenne 0.00961351
+0.366626 secondes 
+itération N° 208 Erreur Quadratique Moyenne 0.00959659
+0.365890 secondes 
+itération N° 209 Erreur Quadratique Moyenne 0.00957837
+0.366052 secondes 
+itération N° 210 Erreur Quadratique Moyenne 0.0095823
+0.371131 secondes 
+itération N° 211 Erreur Quadratique Moyenne 0.00955758
+0.365278 secondes 
+itération N° 212 Erreur Quadratique Moyenne 0.00956295
+0.365815 secondes 
+itération N° 213 Erreur Quadratique Moyenne 0.00955355
+0.372695 secondes 
+itération N° 214 Erreur Quadratique Moyenne 0.00954442
+0.366528 secondes 
+itération N° 215 Erreur Quadratique Moyenne 0.0095344
+0.369934 secondes 
+itération N° 216 Erreur Quadratique Moyenne 0.00952474
+0.369594 secondes 
+itération N° 217 Erreur Quadratique Moyenne 0.00951512
+0.366553 secondes 
+itération N° 218 Erreur Quadratique Moyenne 0.00950581
+0.367169 secondes 
+itération N° 219 Erreur Quadratique Moyenne 0.00949655
+0.373201 secondes 
+itération N° 220 Erreur Quadratique Moyenne 0.00948726
+0.379158 secondes 
+itération N° 221 Erreur Quadratique Moyenne 0.00948349
+0.369993 secondes 
+itération N° 222 Erreur Quadratique Moyenne 0.00946842
+0.365145 secondes 
+itération N° 223 Erreur Quadratique Moyenne 0.00945957
+0.366234 secondes 
+itération N° 224 Erreur Quadratique Moyenne 0.00945104
+0.373839 secondes 
+itération N° 225 Erreur Quadratique Moyenne 0.00944212
+0.370833 secondes 
+itération N° 226 Erreur Quadratique Moyenne 0.0094346
+0.382672 secondes 
+itération N° 227 Erreur Quadratique Moyenne 0.00942422
+0.366032 secondes 
+itération N° 228 Erreur Quadratique Moyenne 0.00941624
+0.373448 secondes 
+itération N° 229 Erreur Quadratique Moyenne 0.0094078
+0.365784 secondes 
+itération N° 230 Erreur Quadratique Moyenne 0.00939941
+0.365006 secondes 
+itération N° 231 Erreur Quadratique Moyenne 0.00939101
+0.367633 secondes 
+itération N° 232 Erreur Quadratique Moyenne 0.00938288
+0.373143 secondes 
+itération N° 233 Erreur Quadratique Moyenne 0.00937455
+0.376441 secondes 
+itération N° 234 Erreur Quadratique Moyenne 0.00936637
+0.366179 secondes 
+itération N° 235 Erreur Quadratique Moyenne 0.00935833
+0.366600 secondes 
+itération N° 236 Erreur Quadratique Moyenne 0.00935026
+0.365290 secondes 
+itération N° 237 Erreur Quadratique Moyenne 0.00934229
+0.365481 secondes 
+itération N° 238 Erreur Quadratique Moyenne 0.00933436
+0.368614 secondes 
+itération N° 239 Erreur Quadratique Moyenne 0.0093266
+0.368114 secondes 
+itération N° 240 Erreur Quadratique Moyenne 0.00931865
+0.365845 secondes 
+itération N° 241 Erreur Quadratique Moyenne 0.00931097
+0.365597 secondes 
+itération N° 242 Erreur Quadratique Moyenne 0.00930333
+0.364939 secondes 
+itération N° 243 Erreur Quadratique Moyenne 0.00929559
+0.370306 secondes 
+itération N° 244 Erreur Quadratique Moyenne 0.00928807
+0.367996 secondes 
+itération N° 245 Erreur Quadratique Moyenne 0.00928041
+0.364531 secondes 
+itération N° 246 Erreur Quadratique Moyenne 0.00927287
+0.368000 secondes 
+itération N° 247 Erreur Quadratique Moyenne 0.00926538
+0.369468 secondes 
+itération N° 248 Erreur Quadratique Moyenne 0.00925805
+0.369024 secondes 
+itération N° 249 Erreur Quadratique Moyenne 0.00925074
+0.370187 secondes 
+itération N° 250 Erreur Quadratique Moyenne 0.00924457
+0.367920 secondes 
+itération N° 251 Erreur Quadratique Moyenne 0.00923656
+0.370939 secondes 
+itération N° 252 Erreur Quadratique Moyenne 0.00922879
+0.368006 secondes 
+itération N° 253 Erreur Quadratique Moyenne 0.00922199
+0.367451 secondes 
+itération N° 254 Erreur Quadratique Moyenne 0.00921392
+0.368722 secondes 
+itération N° 255 Erreur Quadratique Moyenne 0.00920782
+0.367475 secondes 
+itération N° 256 Erreur Quadratique Moyenne 0.00920023
+0.373363 secondes 
+itération N° 257 Erreur Quadratique Moyenne 0.00919361
+0.374283 secondes 
+itération N° 258 Erreur Quadratique Moyenne 0.00918616
+0.368256 secondes 
+itération N° 259 Erreur Quadratique Moyenne 0.00917957
+0.369126 secondes 
+itération N° 260 Erreur Quadratique Moyenne 0.009173
+0.372470 secondes 
+itération N° 261 Erreur Quadratique Moyenne 0.00916589
+0.365104 secondes 
+itération N° 262 Erreur Quadratique Moyenne 0.00915929
+0.366016 secondes 
+itération N° 263 Erreur Quadratique Moyenne 0.00915256
+0.367014 secondes 
+itération N° 264 Erreur Quadratique Moyenne 0.00914581
+0.368750 secondes 
+itération N° 265 Erreur Quadratique Moyenne 0.00913891
+0.366380 secondes 
+itération N° 266 Erreur Quadratique Moyenne 0.00913225
+0.364800 secondes 
+itération N° 267 Erreur Quadratique Moyenne 0.00912565
+0.364827 secondes 
+itération N° 268 Erreur Quadratique Moyenne 0.00911934
+0.364671 secondes 
+itération N° 269 Erreur Quadratique Moyenne 0.00911235
+0.369964 secondes 
+itération N° 270 Erreur Quadratique Moyenne 0.00910591
+0.364699 secondes 
+itération N° 271 Erreur Quadratique Moyenne 0.00909926
+0.364673 secondes 
+itération N° 272 Erreur Quadratique Moyenne 0.009093
+0.364557 secondes 
+itération N° 273 Erreur Quadratique Moyenne 0.00908628
+0.365990 secondes 
+itération N° 274 Erreur Quadratique Moyenne 0.00907993
+0.364692 secondes 
+itération N° 275 Erreur Quadratique Moyenne 0.00907348
+0.366155 secondes 
+itération N° 276 Erreur Quadratique Moyenne 0.00906695
+0.366101 secondes 
+itération N° 277 Erreur Quadratique Moyenne 0.00906073
+0.365621 secondes 
+itération N° 278 Erreur Quadratique Moyenne 0.00905418
+0.368390 secondes 
+itération N° 279 Erreur Quadratique Moyenne 0.00904788
+0.364674 secondes 
+itération N° 280 Erreur Quadratique Moyenne 0.00904152
+0.364522 secondes 
+itération N° 281 Erreur Quadratique Moyenne 0.00903526
+0.365054 secondes 
+itération N° 282 Erreur Quadratique Moyenne 0.00902912
+0.364558 secondes 
+itération N° 283 Erreur Quadratique Moyenne 0.00902278
+0.364527 secondes 
+itération N° 284 Erreur Quadratique Moyenne 0.0090165
+0.365092 secondes 
+itération N° 285 Erreur Quadratique Moyenne 0.00901022
+0.364608 secondes 
+itération N° 286 Erreur Quadratique Moyenne 0.00900424
+0.366474 secondes 
+itération N° 287 Erreur Quadratique Moyenne 0.008998
+0.364552 secondes 
+itération N° 288 Erreur Quadratique Moyenne 0.00899181
+0.365734 secondes 
+itération N° 289 Erreur Quadratique Moyenne 0.00898573
+0.370719 secondes 
+itération N° 290 Erreur Quadratique Moyenne 0.0089794
+0.364786 secondes 
+itération N° 291 Erreur Quadratique Moyenne 0.00897318
+0.365919 secondes 
+itération N° 292 Erreur Quadratique Moyenne 0.00896713
+0.365338 secondes 
+itération N° 293 Erreur Quadratique Moyenne 0.00896103
+0.372260 secondes 
+itération N° 294 Erreur Quadratique Moyenne 0.00895532
+0.365292 secondes 
+itération N° 295 Erreur Quadratique Moyenne 0.00894869
+0.367451 secondes 
+itération N° 296 Erreur Quadratique Moyenne 0.00894303
+0.365320 secondes 
+itération N° 297 Erreur Quadratique Moyenne 0.00893663
+0.367154 secondes 
+itération N° 298 Erreur Quadratique Moyenne 0.00893069
+0.364518 secondes 
+itération N° 299 Erreur Quadratique Moyenne 0.00892476
+0.364771 secondes 
+itération N° 300 Erreur Quadratique Moyenne 0.00891777
+0.366638 secondes 
+itération N° 301 Erreur Quadratique Moyenne 0.00891327
+0.366326 secondes 
+itération N° 302 Erreur Quadratique Moyenne 0.0089069
+0.366267 secondes 
+itération N° 303 Erreur Quadratique Moyenne 0.00890072
+0.364999 secondes 
+itération N° 304 Erreur Quadratique Moyenne 0.00889521
+0.366274 secondes 
+itération N° 305 Erreur Quadratique Moyenne 0.0088893
+0.366554 secondes 
+itération N° 306 Erreur Quadratique Moyenne 0.00888396
+0.370979 secondes 
+itération N° 307 Erreur Quadratique Moyenne 0.00887747
+0.364685 secondes 
+itération N° 308 Erreur Quadratique Moyenne 0.00887151
+0.369135 secondes 
+itération N° 309 Erreur Quadratique Moyenne 0.00886558
+0.364577 secondes 
+itération N° 310 Erreur Quadratique Moyenne 0.00885966
+0.364392 secondes 
+itération N° 311 Erreur Quadratique Moyenne 0.00885376
+0.371997 secondes 
+itération N° 312 Erreur Quadratique Moyenne 0.00884786
+0.365105 secondes 
+itération N° 313 Erreur Quadratique Moyenne 0.00884197
+0.364384 secondes 
+itération N° 314 Erreur Quadratique Moyenne 0.00883609
+0.365504 secondes 
+itération N° 315 Erreur Quadratique Moyenne 0.00883021
+0.366173 secondes 
+itération N° 316 Erreur Quadratique Moyenne 0.00882434
+0.368019 secondes 
+itération N° 317 Erreur Quadratique Moyenne 0.00881847
+0.365324 secondes 
+itération N° 318 Erreur Quadratique Moyenne 0.00886569
+0.365294 secondes 
+itération N° 319 Erreur Quadratique Moyenne 0.00881107
+0.366625 secondes 
+itération N° 320 Erreur Quadratique Moyenne 0.00880504
+0.366037 secondes 
+itération N° 321 Erreur Quadratique Moyenne 0.00879469
+0.372018 secondes 
+itération N° 322 Erreur Quadratique Moyenne 0.00878852
+0.366053 secondes 
+itération N° 323 Erreur Quadratique Moyenne 0.00878268
+0.367327 secondes 
+itération N° 324 Erreur Quadratique Moyenne 0.00877687
+0.373744 secondes 
+itération N° 325 Erreur Quadratique Moyenne 0.00877105
+0.379760 secondes 
+itération N° 326 Erreur Quadratique Moyenne 0.00876524
+0.369087 secondes 
+itération N° 327 Erreur Quadratique Moyenne 0.00875943
+0.369039 secondes 
+itération N° 328 Erreur Quadratique Moyenne 0.00875362
+0.370553 secondes 
+itération N° 329 Erreur Quadratique Moyenne 0.00874782
+0.368054 secondes 
+itération N° 330 Erreur Quadratique Moyenne 0.00874202
+0.368494 secondes 
+itération N° 331 Erreur Quadratique Moyenne 0.00873619
+0.366184 secondes 
+itération N° 332 Erreur Quadratique Moyenne 0.00873039
+0.365861 secondes 
+itération N° 333 Erreur Quadratique Moyenne 0.00872457
+0.365408 secondes 
+itération N° 334 Erreur Quadratique Moyenne 0.00871874
+0.364494 secondes 
+itération N° 335 Erreur Quadratique Moyenne 0.00871294
+0.366479 secondes 
+itération N° 336 Erreur Quadratique Moyenne 0.0087071
+0.366802 secondes 
+itération N° 337 Erreur Quadratique Moyenne 0.00870127
+0.369383 secondes 
+itération N° 338 Erreur Quadratique Moyenne 0.00869543
+0.370798 secondes 
+itération N° 339 Erreur Quadratique Moyenne 0.0086896
+0.367735 secondes 
+itération N° 340 Erreur Quadratique Moyenne 0.00868375
+0.367534 secondes 
+itération N° 341 Erreur Quadratique Moyenne 0.00867792
+0.368223 secondes 
+itération N° 342 Erreur Quadratique Moyenne 0.00867207
+0.365697 secondes 
+itération N° 343 Erreur Quadratique Moyenne 0.0086662
+0.365413 secondes 
+itération N° 344 Erreur Quadratique Moyenne 0.00866034
+0.373194 secondes 
+itération N° 345 Erreur Quadratique Moyenne 0.00865446
+0.364696 secondes 
+itération N° 346 Erreur Quadratique Moyenne 0.00864858
+0.368718 secondes 
+itération N° 347 Erreur Quadratique Moyenne 0.0086427
+0.372767 secondes 
+itération N° 348 Erreur Quadratique Moyenne 0.0086368
+0.372849 secondes 
+itération N° 349 Erreur Quadratique Moyenne 0.00863091
+0.370701 secondes 
+itération N° 350 Erreur Quadratique Moyenne 0.00862498
+0.372798 secondes 
+itération N° 351 Erreur Quadratique Moyenne 0.00861906
+0.375658 secondes 
+itération N° 352 Erreur Quadratique Moyenne 0.00861313
+0.375732 secondes 
+itération N° 353 Erreur Quadratique Moyenne 0.00860721
+0.368028 secondes 
+itération N° 354 Erreur Quadratique Moyenne 0.00860123
+0.367222 secondes 
+itération N° 355 Erreur Quadratique Moyenne 0.00859526
+0.367552 secondes 
+itération N° 356 Erreur Quadratique Moyenne 0.00858928
+0.372888 secondes 
+itération N° 357 Erreur Quadratique Moyenne 0.00858329
+0.369704 secondes 
+itération N° 358 Erreur Quadratique Moyenne 0.00857728
+0.367360 secondes 
+itération N° 359 Erreur Quadratique Moyenne 0.00858106
+0.368400 secondes 
+itération N° 360 Erreur Quadratique Moyenne 0.00856591
+0.379382 secondes 
+itération N° 361 Erreur Quadratique Moyenne 0.00855912
+0.365433 secondes 
+itération N° 362 Erreur Quadratique Moyenne 0.00855299
+0.373160 secondes 
+itération N° 363 Erreur Quadratique Moyenne 0.00854689
+0.364538 secondes 
+itération N° 364 Erreur Quadratique Moyenne 0.00854079
+0.366631 secondes 
+itération N° 365 Erreur Quadratique Moyenne 0.00831427
+0.367816 secondes 
+itération N° 366 Erreur Quadratique Moyenne 0.00844901
+0.369554 secondes 
+itération N° 367 Erreur Quadratique Moyenne 0.00851314
+0.366815 secondes 
+itération N° 368 Erreur Quadratique Moyenne 0.00851303
+0.366162 secondes 
+itération N° 369 Erreur Quadratique Moyenne 0.00850628
+0.366093 secondes 
+itération N° 370 Erreur Quadratique Moyenne 0.00849989
+0.365099 secondes 
+itération N° 371 Erreur Quadratique Moyenne 0.00849357
+0.366399 secondes 
+itération N° 372 Erreur Quadratique Moyenne 0.00849113
+0.364743 secondes 
+itération N° 373 Erreur Quadratique Moyenne 0.00848151
+0.365276 secondes 
+itération N° 374 Erreur Quadratique Moyenne 0.00847473
+0.365297 secondes 
+itération N° 375 Erreur Quadratique Moyenne 0.00846844
+0.365088 secondes 
+itération N° 376 Erreur Quadratique Moyenne 0.00846319
+0.367049 secondes 
+itération N° 377 Erreur Quadratique Moyenne 0.00845511
+0.369086 secondes 
+itération N° 378 Erreur Quadratique Moyenne 0.00844888
+0.370106 secondes 
+itération N° 379 Erreur Quadratique Moyenne 0.00844174
+0.369637 secondes 
+itération N° 380 Erreur Quadratique Moyenne 0.00845219
+0.368240 secondes 
+itération N° 381 Erreur Quadratique Moyenne 0.00843377
+0.371696 secondes 
+itération N° 382 Erreur Quadratique Moyenne 0.00842527
+0.375908 secondes 
+itération N° 383 Erreur Quadratique Moyenne 0.00841804
+0.375693 secondes 
+itération N° 384 Erreur Quadratique Moyenne 0.00841175
+0.371122 secondes 
+itération N° 385 Erreur Quadratique Moyenne 0.00840396
+0.367347 secondes 
+itération N° 386 Erreur Quadratique Moyenne 0.00839933
+0.367488 secondes 
+itération N° 387 Erreur Quadratique Moyenne 0.00841454
+0.376413 secondes 
+itération N° 388 Erreur Quadratique Moyenne 0.00838325
+0.377142 secondes 
+itération N° 389 Erreur Quadratique Moyenne 0.00839004
+0.377827 secondes 
+itération N° 390 Erreur Quadratique Moyenne 0.00837155
+0.375846 secondes 
+itération N° 391 Erreur Quadratique Moyenne 0.0083631
+0.376099 secondes 
+itération N° 392 Erreur Quadratique Moyenne 0.00836081
+0.370053 secondes 
+itération N° 393 Erreur Quadratique Moyenne 0.00834754
+0.377379 secondes 
+itération N° 394 Erreur Quadratique Moyenne 0.00834766
+0.366102 secondes 
+itération N° 395 Erreur Quadratique Moyenne 0.00833198
+0.366487 secondes 
+itération N° 396 Erreur Quadratique Moyenne 0.00832331
+0.371541 secondes 
+itération N° 397 Erreur Quadratique Moyenne 0.0083153
+0.367693 secondes 
+itération N° 398 Erreur Quadratique Moyenne 0.0083092
+0.389600 secondes 
+itération N° 399 Erreur Quadratique Moyenne 0.00829927
+0.383037 secondes 
+itération N° 400 Erreur Quadratique Moyenne 0.00829089
+0.382594 secondes 
+itération N° 401 Erreur Quadratique Moyenne 0.00828471
+0.385715 secondes 
+itération N° 402 Erreur Quadratique Moyenne 0.00828738
+0.401263 secondes 
+itération N° 403 Erreur Quadratique Moyenne 0.00826563
+0.374046 secondes 
+itération N° 404 Erreur Quadratique Moyenne 0.00825568
+0.386365 secondes 
+itération N° 405 Erreur Quadratique Moyenne 0.00824804
+0.389246 secondes 
+itération N° 406 Erreur Quadratique Moyenne 0.00823667
+0.381927 secondes 
+itération N° 407 Erreur Quadratique Moyenne 0.0082274
+0.449762 secondes 
+itération N° 408 Erreur Quadratique Moyenne 0.00821709
+0.493757 secondes 
+itération N° 409 Erreur Quadratique Moyenne 0.00821364
+0.494741 secondes 
+itération N° 410 Erreur Quadratique Moyenne 0.00819671
+0.491618 secondes 
+itération N° 411 Erreur Quadratique Moyenne 0.00818561
+0.481328 secondes 
+itération N° 412 Erreur Quadratique Moyenne 0.00817433
+0.486349 secondes 
+itération N° 413 Erreur Quadratique Moyenne 0.00816264
+0.477299 secondes 
+itération N° 414 Erreur Quadratique Moyenne 0.00815063
+0.484734 secondes 
+itération N° 415 Erreur Quadratique Moyenne 0.00814031
+0.472494 secondes 
+itération N° 416 Erreur Quadratique Moyenne 0.00812572
+0.512115 secondes 
+itération N° 417 Erreur Quadratique Moyenne 0.00811203
+0.485577 secondes 
+itération N° 418 Erreur Quadratique Moyenne 0.0080992
+0.504297 secondes 
+itération N° 419 Erreur Quadratique Moyenne 0.00808499
+0.505481 secondes 
+itération N° 420 Erreur Quadratique Moyenne 0.0080668
+0.495832 secondes 
+itération N° 421 Erreur Quadratique Moyenne 0.00804939
+0.498975 secondes 
+itération N° 422 Erreur Quadratique Moyenne 0.00803138
+0.489658 secondes 
+itération N° 423 Erreur Quadratique Moyenne 0.00802327
+0.557288 secondes 
+itération N° 424 Erreur Quadratique Moyenne 0.00799135
+0.550947 secondes 
+itération N° 425 Erreur Quadratique Moyenne 0.00797013
+0.514572 secondes 
+itération N° 426 Erreur Quadratique Moyenne 0.00794587
+0.504269 secondes 
+itération N° 427 Erreur Quadratique Moyenne 0.00792058
+0.438317 secondes 
+itération N° 428 Erreur Quadratique Moyenne 0.0078939
+0.436088 secondes 
+itération N° 429 Erreur Quadratique Moyenne 0.00786349
+0.468552 secondes 
+itération N° 430 Erreur Quadratique Moyenne 0.00783142
+0.471502 secondes 
+itération N° 431 Erreur Quadratique Moyenne 0.0077953
+0.432475 secondes 
+itération N° 432 Erreur Quadratique Moyenne 0.0077626
+0.453841 secondes 
+itération N° 433 Erreur Quadratique Moyenne 0.00771004
+0.448017 secondes 
+itération N° 434 Erreur Quadratique Moyenne 0.00766119
+0.460587 secondes 
+itération N° 435 Erreur Quadratique Moyenne 0.00760698
+0.418924 secondes 
+itération N° 436 Erreur Quadratique Moyenne 0.00753085
+0.442858 secondes 
+itération N° 437 Erreur Quadratique Moyenne 0.00746112
+0.426035 secondes 
+itération N° 438 Erreur Quadratique Moyenne 0.00738753
+0.415827 secondes 
+itération N° 439 Erreur Quadratique Moyenne 0.0073064
+0.418639 secondes 
+itération N° 440 Erreur Quadratique Moyenne 0.00721993
+0.448496 secondes 
+itération N° 441 Erreur Quadratique Moyenne 0.00713311
+0.475104 secondes 
+itération N° 442 Erreur Quadratique Moyenne 0.00704628
+0.417204 secondes 
+itération N° 443 Erreur Quadratique Moyenne 0.00696268
+0.415005 secondes 
+itération N° 444 Erreur Quadratique Moyenne 0.0068839
+0.415768 secondes 
+itération N° 445 Erreur Quadratique Moyenne 0.00681003
+0.425050 secondes 
+itération N° 446 Erreur Quadratique Moyenne 0.00673941
+0.427495 secondes 
+itération N° 447 Erreur Quadratique Moyenne 0.00667113
+0.421791 secondes 
+itération N° 448 Erreur Quadratique Moyenne 0.00660457
+0.449617 secondes 
+itération N° 449 Erreur Quadratique Moyenne 0.00653799
+0.415572 secondes 
+itération N° 450 Erreur Quadratique Moyenne 0.00647451
+0.421686 secondes 
+itération N° 451 Erreur Quadratique Moyenne 0.00641139
+0.417681 secondes 
+itération N° 452 Erreur Quadratique Moyenne 0.00634976
+0.418984 secondes 
+itération N° 453 Erreur Quadratique Moyenne 0.00628985
+0.434867 secondes 
+itération N° 454 Erreur Quadratique Moyenne 0.00622524
+0.415662 secondes 
+itération N° 455 Erreur Quadratique Moyenne 0.0061739
+0.415610 secondes 
+itération N° 456 Erreur Quadratique Moyenne 0.00611982
+0.440583 secondes 
+itération N° 457 Erreur Quadratique Moyenne 0.00606773
+0.400352 secondes 
+itération N° 458 Erreur Quadratique Moyenne 0.00601743
+0.368384 secondes 
+itération N° 459 Erreur Quadratique Moyenne 0.00596928
+0.371933 secondes 
+itération N° 460 Erreur Quadratique Moyenne 0.00592242
+0.380198 secondes 
+itération N° 461 Erreur Quadratique Moyenne 0.00587693
+0.391337 secondes 
+itération N° 462 Erreur Quadratique Moyenne 0.00583238
+0.383386 secondes 
+itération N° 463 Erreur Quadratique Moyenne 0.00579023
+0.381118 secondes 
+itération N° 464 Erreur Quadratique Moyenne 0.00574923
+0.420787 secondes 
+itération N° 465 Erreur Quadratique Moyenne 0.00571024
+0.373772 secondes 
+itération N° 466 Erreur Quadratique Moyenne 0.00567633
+0.374196 secondes 
+itération N° 467 Erreur Quadratique Moyenne 0.00564337
+0.371035 secondes 
+itération N° 468 Erreur Quadratique Moyenne 0.00561226
+0.374891 secondes 
+itération N° 469 Erreur Quadratique Moyenne 0.00558043
+0.368126 secondes 
+itération N° 470 Erreur Quadratique Moyenne 0.00555345
+0.365597 secondes 
+itération N° 471 Erreur Quadratique Moyenne 0.00552598
+0.374433 secondes 
+itération N° 472 Erreur Quadratique Moyenne 0.00549812
+0.366415 secondes 
+itération N° 473 Erreur Quadratique Moyenne 0.00547139
+0.371579 secondes 
+itération N° 474 Erreur Quadratique Moyenne 0.00544641
+0.370770 secondes 
+itération N° 475 Erreur Quadratique Moyenne 0.00541815
+0.368151 secondes 
+itération N° 476 Erreur Quadratique Moyenne 0.00538342
+0.368396 secondes 
+itération N° 477 Erreur Quadratique Moyenne 0.00536889
+0.368205 secondes 
+itération N° 478 Erreur Quadratique Moyenne 0.0053422
+0.370080 secondes 
+itération N° 479 Erreur Quadratique Moyenne 0.00531629
+0.369297 secondes 
+itération N° 480 Erreur Quadratique Moyenne 0.00529747
+0.370853 secondes 
+itération N° 481 Erreur Quadratique Moyenne 0.00527403
+0.372226 secondes 
+itération N° 482 Erreur Quadratique Moyenne 0.00525066
+0.367839 secondes 
+itération N° 483 Erreur Quadratique Moyenne 0.00522601
+0.368298 secondes 
+itération N° 484 Erreur Quadratique Moyenne 0.00520422
+0.377975 secondes 
+itération N° 485 Erreur Quadratique Moyenne 0.0051813
+0.374158 secondes 
+itération N° 486 Erreur Quadratique Moyenne 0.00515885
+0.366919 secondes 
+itération N° 487 Erreur Quadratique Moyenne 0.00513798
+0.371188 secondes 
+itération N° 488 Erreur Quadratique Moyenne 0.00511045
+0.377880 secondes 
+itération N° 489 Erreur Quadratique Moyenne 0.00509385
+0.378913 secondes 
+itération N° 490 Erreur Quadratique Moyenne 0.00507224
+0.389542 secondes 
+itération N° 491 Erreur Quadratique Moyenne 0.00505162
+0.378378 secondes 
+itération N° 492 Erreur Quadratique Moyenne 0.00503231
+0.373164 secondes 
+itération N° 493 Erreur Quadratique Moyenne 0.00499048
+0.368215 secondes 
+itération N° 494 Erreur Quadratique Moyenne 0.00499139
+0.367117 secondes 
+itération N° 495 Erreur Quadratique Moyenne 0.00497243
+0.387035 secondes 
+itération N° 496 Erreur Quadratique Moyenne 0.00495336
+0.367250 secondes 
+itération N° 497 Erreur Quadratique Moyenne 0.0049333
+0.368004 secondes 
+itération N° 498 Erreur Quadratique Moyenne 0.00491522
+0.370451 secondes 
+itération N° 499 Erreur Quadratique Moyenne 0.00489595
+0.369052 secondes 
+itération N° 500 Erreur Quadratique Moyenne 0.00487726
+0.377771 secondes 
+itération N° 501 Erreur Quadratique Moyenne 0.00485661
+0.390542 secondes 
+itération N° 502 Erreur Quadratique Moyenne 0.00484016
+0.377017 secondes 
+itération N° 503 Erreur Quadratique Moyenne 0.00481738
+0.381191 secondes 
+itération N° 504 Erreur Quadratique Moyenne 0.00479805
+0.372125 secondes 
+itération N° 505 Erreur Quadratique Moyenne 0.00478589
+0.371056 secondes 
+itération N° 506 Erreur Quadratique Moyenne 0.00476813
+0.371775 secondes 
+itération N° 507 Erreur Quadratique Moyenne 0.00475008
+0.369979 secondes 
+itération N° 508 Erreur Quadratique Moyenne 0.004731
+0.392611 secondes 
+itération N° 509 Erreur Quadratique Moyenne 0.00471341
+0.496356 secondes 
+itération N° 510 Erreur Quadratique Moyenne 0.00469493
+0.484753 secondes 
+itération N° 511 Erreur Quadratique Moyenne 0.00466981
+0.482521 secondes 
+itération N° 512 Erreur Quadratique Moyenne 0.00464932
+0.472430 secondes 
+itération N° 513 Erreur Quadratique Moyenne 0.0046373
+0.484094 secondes 
+itération N° 514 Erreur Quadratique Moyenne 0.00460447
+0.475773 secondes 
+itération N° 515 Erreur Quadratique Moyenne 0.00491418
+0.479537 secondes 
+itération N° 516 Erreur Quadratique Moyenne 0.00461515
+0.471792 secondes 
+itération N° 517 Erreur Quadratique Moyenne 0.00462455
+0.475128 secondes 
+itération N° 518 Erreur Quadratique Moyenne 0.00456354
+0.492996 secondes 
+itération N° 519 Erreur Quadratique Moyenne 0.00454112
+0.474265 secondes 
+itération N° 520 Erreur Quadratique Moyenne 0.00450686
+0.472242 secondes 
+itération N° 521 Erreur Quadratique Moyenne 0.00448326
+0.472926 secondes 
+itération N° 522 Erreur Quadratique Moyenne 0.00446044
+0.469933 secondes 
+itération N° 523 Erreur Quadratique Moyenne 0.00443716
+0.477264 secondes 
+itération N° 524 Erreur Quadratique Moyenne 0.00443649
+0.477137 secondes 
+itération N° 525 Erreur Quadratique Moyenne 0.00438646
+0.478236 secondes 
+itération N° 526 Erreur Quadratique Moyenne 0.00436382
+0.478523 secondes 
+itération N° 527 Erreur Quadratique Moyenne 0.00433883
+0.477797 secondes 
+itération N° 528 Erreur Quadratique Moyenne 0.00431362
+0.474408 secondes 
+itération N° 529 Erreur Quadratique Moyenne 0.00429038
+0.440797 secondes 
+itération N° 530 Erreur Quadratique Moyenne 0.00425637
+0.421945 secondes 
+itération N° 531 Erreur Quadratique Moyenne 0.00422614
+0.417806 secondes 
+itération N° 532 Erreur Quadratique Moyenne 0.00419241
+0.448999 secondes 
+itération N° 533 Erreur Quadratique Moyenne 0.00415316
+0.434428 secondes 
+itération N° 534 Erreur Quadratique Moyenne 0.00410935
+0.420241 secondes 
+itération N° 535 Erreur Quadratique Moyenne 0.00406054
+0.414406 secondes 
+itération N° 536 Erreur Quadratique Moyenne 0.00400287
+0.436869 secondes 
+itération N° 537 Erreur Quadratique Moyenne 0.00394349
+0.438767 secondes 
+itération N° 538 Erreur Quadratique Moyenne 0.00387916
+0.417160 secondes 
+itération N° 539 Erreur Quadratique Moyenne 0.00380946
+0.416107 secondes 
+itération N° 540 Erreur Quadratique Moyenne 0.0037406
+0.441954 secondes 
+itération N° 541 Erreur Quadratique Moyenne 0.00366809
+0.374011 secondes 
+itération N° 542 Erreur Quadratique Moyenne 0.00360069
+0.374796 secondes 
+itération N° 543 Erreur Quadratique Moyenne 0.00352111
+0.370225 secondes 
+itération N° 544 Erreur Quadratique Moyenne 0.00345424
+0.369962 secondes 
+itération N° 545 Erreur Quadratique Moyenne 0.00338601
+0.374242 secondes 
+itération N° 546 Erreur Quadratique Moyenne 0.00331755
+0.367531 secondes 
+itération N° 547 Erreur Quadratique Moyenne 0.00325427
+0.369069 secondes 
+itération N° 548 Erreur Quadratique Moyenne 0.00319331
+0.373414 secondes 
+itération N° 549 Erreur Quadratique Moyenne 0.003127
+0.370584 secondes 
+itération N° 550 Erreur Quadratique Moyenne 0.00307372
+0.385088 secondes 
+itération N° 551 Erreur Quadratique Moyenne 0.00301215
+0.374850 secondes 
+itération N° 552 Erreur Quadratique Moyenne 0.00296179
+0.374508 secondes 
+itération N° 553 Erreur Quadratique Moyenne 0.00290188
+0.373223 secondes 
+itération N° 554 Erreur Quadratique Moyenne 0.00286318
+0.378745 secondes 
+itération N° 555 Erreur Quadratique Moyenne 0.00281641
+0.369442 secondes 
+itération N° 556 Erreur Quadratique Moyenne 0.0027711
+0.371026 secondes 
+itération N° 557 Erreur Quadratique Moyenne 0.00272542
+0.379206 secondes 
+itération N° 558 Erreur Quadratique Moyenne 0.002683
+0.365536 secondes 
+itération N° 559 Erreur Quadratique Moyenne 0.00264075
+0.366630 secondes 
+itération N° 560 Erreur Quadratique Moyenne 0.00259919
+0.370337 secondes 
+itération N° 561 Erreur Quadratique Moyenne 0.00256152
+0.366388 secondes 
+itération N° 562 Erreur Quadratique Moyenne 0.00252154
+0.365079 secondes 
+itération N° 563 Erreur Quadratique Moyenne 0.00248102
+0.373724 secondes 
+itération N° 564 Erreur Quadratique Moyenne 0.00244582
+0.372950 secondes 
+itération N° 565 Erreur Quadratique Moyenne 0.00240949
+0.366590 secondes 
+itération N° 566 Erreur Quadratique Moyenne 0.00237306
+0.372187 secondes 
+itération N° 567 Erreur Quadratique Moyenne 0.00233644
+0.372708 secondes 
+itération N° 568 Erreur Quadratique Moyenne 0.00230332
+0.373598 secondes 
+itération N° 569 Erreur Quadratique Moyenne 0.00226845
+0.373700 secondes 
+itération N° 570 Erreur Quadratique Moyenne 0.00223631
+0.365379 secondes 
+itération N° 571 Erreur Quadratique Moyenne 0.00220277
+0.368472 secondes 
+itération N° 572 Erreur Quadratique Moyenne 0.00217405
+0.439504 secondes 
+itération N° 573 Erreur Quadratique Moyenne 0.002145
+0.480314 secondes 
+itération N° 574 Erreur Quadratique Moyenne 0.00211763
+0.479996 secondes 
+itération N° 575 Erreur Quadratique Moyenne 0.00209354
+0.475037 secondes 
+itération N° 576 Erreur Quadratique Moyenne 0.00207165
+0.470841 secondes 
+itération N° 577 Erreur Quadratique Moyenne 0.00205067
+0.469388 secondes 
+itération N° 578 Erreur Quadratique Moyenne 0.0020332
+0.469211 secondes 
+itération N° 579 Erreur Quadratique Moyenne 0.00201639
+0.472926 secondes 
+itération N° 580 Erreur Quadratique Moyenne 0.00200819
+0.481097 secondes 
+itération N° 581 Erreur Quadratique Moyenne 0.00198336
+0.483648 secondes 
+itération N° 582 Erreur Quadratique Moyenne 0.00196969
+0.480572 secondes 
+itération N° 583 Erreur Quadratique Moyenne 0.00195488
+0.480090 secondes 
+itération N° 584 Erreur Quadratique Moyenne 0.00194076
+0.480415 secondes 
+itération N° 585 Erreur Quadratique Moyenne 0.00192884
+0.477286 secondes 
+itération N° 586 Erreur Quadratique Moyenne 0.00191439
+0.471382 secondes 
+itération N° 587 Erreur Quadratique Moyenne 0.00189731
+0.479619 secondes 
+itération N° 588 Erreur Quadratique Moyenne 0.00188196
+0.480394 secondes 
+itération N° 589 Erreur Quadratique Moyenne 0.00186954
+0.480139 secondes 
+itération N° 590 Erreur Quadratique Moyenne 0.00185448
+0.486729 secondes 
+itération N° 591 Erreur Quadratique Moyenne 0.00183944
+0.481714 secondes 
+itération N° 592 Erreur Quadratique Moyenne 0.00182864
+0.482807 secondes 
+itération N° 593 Erreur Quadratique Moyenne 0.00180622
+0.481637 secondes 
+itération N° 594 Erreur Quadratique Moyenne 0.00179205
+0.435593 secondes 
+itération N° 595 Erreur Quadratique Moyenne 0.00177713
+0.410763 secondes 
+itération N° 596 Erreur Quadratique Moyenne 0.00176284
+0.412516 secondes 
+itération N° 597 Erreur Quadratique Moyenne 0.00175146
+0.411204 secondes 
+itération N° 598 Erreur Quadratique Moyenne 0.00173452
+0.410768 secondes 
+itération N° 599 Erreur Quadratique Moyenne 0.0017213
+0.418212 secondes 
+itération N° 600 Erreur Quadratique Moyenne 0.00170546
+0.418908 secondes 
+itération N° 601 Erreur Quadratique Moyenne 0.00169295
+0.421222 secondes 
+itération N° 602 Erreur Quadratique Moyenne 0.00167893
+0.419522 secondes 
+itération N° 603 Erreur Quadratique Moyenne 0.00165945
+0.419966 secondes 
+itération N° 604 Erreur Quadratique Moyenne 0.00165276
+0.421367 secondes 
+itération N° 605 Erreur Quadratique Moyenne 0.00163882
+0.416744 secondes 
+itération N° 606 Erreur Quadratique Moyenne 0.00162612
+0.378499 secondes 
+itération N° 607 Erreur Quadratique Moyenne 0.00161333
+0.367963 secondes 
+itération N° 608 Erreur Quadratique Moyenne 0.00160007
+0.365049 secondes 
+itération N° 609 Erreur Quadratique Moyenne 0.00158912
+0.367181 secondes 
+itération N° 610 Erreur Quadratique Moyenne 0.00157623
+0.365231 secondes 
+itération N° 611 Erreur Quadratique Moyenne 0.001564
+0.367490 secondes 
+itération N° 612 Erreur Quadratique Moyenne 0.00155184
+0.370742 secondes 
+itération N° 613 Erreur Quadratique Moyenne 0.00154001
+0.371476 secondes 
+itération N° 614 Erreur Quadratique Moyenne 0.00152845
+0.373686 secondes 
+itération N° 615 Erreur Quadratique Moyenne 0.00151718
+0.374548 secondes 
+itération N° 616 Erreur Quadratique Moyenne 0.00150612
+0.365250 secondes 
+itération N° 617 Erreur Quadratique Moyenne 0.00149533
+0.372362 secondes 
+itération N° 618 Erreur Quadratique Moyenne 0.00148476
+0.379704 secondes 
+itération N° 619 Erreur Quadratique Moyenne 0.00147438
+0.374087 secondes 
+itération N° 620 Erreur Quadratique Moyenne 0.00146436
+0.372831 secondes 
+itération N° 621 Erreur Quadratique Moyenne 0.0014569
+0.372611 secondes 
+itération N° 622 Erreur Quadratique Moyenne 0.00144505
+0.375776 secondes 
+itération N° 623 Erreur Quadratique Moyenne 0.00143571
+0.372778 secondes 
+itération N° 624 Erreur Quadratique Moyenne 0.00142641
+0.372299 secondes 
+itération N° 625 Erreur Quadratique Moyenne 0.00141747
+0.373432 secondes 
+itération N° 626 Erreur Quadratique Moyenne 0.00140878
+0.375246 secondes 
+itération N° 627 Erreur Quadratique Moyenne 0.00140018
+0.365117 secondes 
+itération N° 628 Erreur Quadratique Moyenne 0.00139174
+0.366930 secondes 
+itération N° 629 Erreur Quadratique Moyenne 0.00138346
+0.365117 secondes 
+itération N° 630 Erreur Quadratique Moyenne 0.00137533
+0.369151 secondes 
+itération N° 631 Erreur Quadratique Moyenne 0.00136729
+0.371657 secondes 
+itération N° 632 Erreur Quadratique Moyenne 0.00135935
+0.372293 secondes 
+itération N° 633 Erreur Quadratique Moyenne 0.00135147
+0.378587 secondes 
+itération N° 634 Erreur Quadratique Moyenne 0.0013437
+0.372553 secondes 
+itération N° 635 Erreur Quadratique Moyenne 0.00133602
+0.372773 secondes 
+itération N° 636 Erreur Quadratique Moyenne 0.00132842
+0.379254 secondes 
+itération N° 637 Erreur Quadratique Moyenne 0.00132092
+0.431462 secondes 
+itération N° 638 Erreur Quadratique Moyenne 0.00131349
+0.485955 secondes 
+itération N° 639 Erreur Quadratique Moyenne 0.00130614
+0.485300 secondes 
+itération N° 640 Erreur Quadratique Moyenne 0.00129888
+0.482024 secondes 
+itération N° 641 Erreur Quadratique Moyenne 0.00129166
+0.480356 secondes 
+itération N° 642 Erreur Quadratique Moyenne 0.00128447
+0.484873 secondes 
+itération N° 643 Erreur Quadratique Moyenne 0.00127739
+0.469473 secondes 
+itération N° 644 Erreur Quadratique Moyenne 0.00127035
+0.479120 secondes 
+itération N° 645 Erreur Quadratique Moyenne 0.00126337
+0.479833 secondes 
+itération N° 646 Erreur Quadratique Moyenne 0.00125648
+0.472242 secondes 
+itération N° 647 Erreur Quadratique Moyenne 0.00124963
+0.469366 secondes 
+itération N° 648 Erreur Quadratique Moyenne 0.00124286
+0.470483 secondes 
+itération N° 649 Erreur Quadratique Moyenne 0.00123614
+0.480238 secondes 
+itération N° 650 Erreur Quadratique Moyenne 0.00122952
+0.476387 secondes 
+itération N° 651 Erreur Quadratique Moyenne 0.00122291
+0.527714 secondes 
+itération N° 652 Erreur Quadratique Moyenne 0.00121637
+0.469903 secondes 
+itération N° 653 Erreur Quadratique Moyenne 0.00120994
+0.481949 secondes 
+itération N° 654 Erreur Quadratique Moyenne 0.00120385
+0.477245 secondes 
+itération N° 655 Erreur Quadratique Moyenne 0.0011972
+0.518744 secondes 
+itération N° 656 Erreur Quadratique Moyenne 0.00119086
+0.474142 secondes 
+itération N° 657 Erreur Quadratique Moyenne 0.00118465
+0.483749 secondes 
+itération N° 658 Erreur Quadratique Moyenne 0.00117851
+0.483132 secondes 
+itération N° 659 Erreur Quadratique Moyenne 0.00117237
+0.428873 secondes 
+itération N° 660 Erreur Quadratique Moyenne 0.0011663
+0.410769 secondes 
+itération N° 661 Erreur Quadratique Moyenne 0.00116034
+0.416300 secondes 
+itération N° 662 Erreur Quadratique Moyenne 0.0011547
+0.420673 secondes 
+itération N° 663 Erreur Quadratique Moyenne 0.00114851
+0.423054 secondes 
+itération N° 664 Erreur Quadratique Moyenne 0.00114265
+0.413632 secondes 
+itération N° 665 Erreur Quadratique Moyenne 0.00113692
+0.419272 secondes 
+itération N° 666 Erreur Quadratique Moyenne 0.00113116
+0.421497 secondes 
+itération N° 667 Erreur Quadratique Moyenne 0.00112553
+0.422818 secondes 
+itération N° 668 Erreur Quadratique Moyenne 0.00106491
+0.424261 secondes 
+itération N° 669 Erreur Quadratique Moyenne 0.00110917
+0.419800 secondes 
+itération N° 670 Erreur Quadratique Moyenne 0.00110965
+0.420633 secondes 
+itération N° 671 Erreur Quadratique Moyenne 0.0011046
+0.380810 secondes 
+itération N° 672 Erreur Quadratique Moyenne 0.00109908
+0.371516 secondes 
+itération N° 673 Erreur Quadratique Moyenne 0.00109369
+0.377483 secondes 
+itération N° 674 Erreur Quadratique Moyenne 0.00108838
+0.378637 secondes 
+itération N° 675 Erreur Quadratique Moyenne 0.00108457
+0.381891 secondes 
+itération N° 676 Erreur Quadratique Moyenne 0.00107797
+0.387650 secondes 
+itération N° 677 Erreur Quadratique Moyenne 0.0010728
+0.375286 secondes 
+itération N° 678 Erreur Quadratique Moyenne 0.00106772
+0.376073 secondes 
+itération N° 679 Erreur Quadratique Moyenne 0.00106277
+0.366694 secondes 
+itération N° 680 Erreur Quadratique Moyenne 0.00105764
+0.365407 secondes 
+itération N° 681 Erreur Quadratique Moyenne 0.00105284
+0.369436 secondes 
+itération N° 682 Erreur Quadratique Moyenne 0.00104777
+0.368409 secondes 
+itération N° 683 Erreur Quadratique Moyenne 0.00119637
+0.373486 secondes 
+itération N° 684 Erreur Quadratique Moyenne 0.0010356
+0.453268 secondes 
+itération N° 685 Erreur Quadratique Moyenne 0.0010285
+0.483318 secondes 
+itération N° 686 Erreur Quadratique Moyenne 0.00102401
+0.517738 secondes 
+itération N° 687 Erreur Quadratique Moyenne 0.00101981
+0.907496 secondes 
+itération N° 688 Erreur Quadratique Moyenne 0.0010155
+1.032049 secondes 
+itération N° 689 Erreur Quadratique Moyenne 0.0010117
+1.104844 secondes 
+itération N° 690 Erreur Quadratique Moyenne 0.00101215
+1.143040 secondes 
+itération N° 691 Erreur Quadratique Moyenne 0.00100297
+1.146230 secondes 
+itération N° 692 Erreur Quadratique Moyenne 0.00104243
+1.104889 secondes 
+itération N° 693 Erreur Quadratique Moyenne 0.000990707
+1.132852 secondes 
+itération N° 694 Erreur Quadratique Moyenne 0.000989795
+1.141621 secondes 
+itération N° 695 Erreur Quadratique Moyenne 0.000987141
+1.151474 secondes 
+itération N° 696 Erreur Quadratique Moyenne 0.000981471
+0.999937 secondes 
+itération N° 697 Erreur Quadratique Moyenne 0.000980349
+0.836792 secondes 
+itération N° 698 Erreur Quadratique Moyenne 0.000973203
+0.679536 secondes 
+itération N° 699 Erreur Quadratique Moyenne 0.000968875
+0.676985 secondes 
+itération N° 700 Erreur Quadratique Moyenne 0.000964796
+0.662419 secondes 
+itération N° 701 Erreur Quadratique Moyenne 0.000961417
+0.657104 secondes 
+itération N° 702 Erreur Quadratique Moyenne 0.000956829
+0.624962 secondes 
+itération N° 703 Erreur Quadratique Moyenne 0.000952993
+0.490472 secondes 
+itération N° 704 Erreur Quadratique Moyenne 0.000949265
+0.481488 secondes 
+itération N° 705 Erreur Quadratique Moyenne 0.000949556
+0.464489 secondes 
+itération N° 706 Erreur Quadratique Moyenne 0.000941489
+0.373903 secondes 
+itération N° 707 Erreur Quadratique Moyenne 0.000937114
+0.364827 secondes 
+itération N° 708 Erreur Quadratique Moyenne 0.000933502
+0.364610 secondes 
+itération N° 709 Erreur Quadratique Moyenne 0.000929414
+0.365006 secondes 
+itération N° 710 Erreur Quadratique Moyenne 0.000925666
+0.364778 secondes 
+itération N° 711 Erreur Quadratique Moyenne 0.000921906
+0.364906 secondes 
+itération N° 712 Erreur Quadratique Moyenne 0.000919674
+0.365041 secondes 
+itération N° 713 Erreur Quadratique Moyenne 0.00091456
+0.364506 secondes 
+itération N° 714 Erreur Quadratique Moyenne 0.000910827
+0.372333 secondes 
+itération N° 715 Erreur Quadratique Moyenne 0.000907172
+0.367094 secondes 
+itération N° 716 Erreur Quadratique Moyenne 0.000903572
+0.365721 secondes 
+itération N° 717 Erreur Quadratique Moyenne 0.000900019
+0.377822 secondes 
+itération N° 718 Erreur Quadratique Moyenne 0.00089688
+0.373031 secondes 
+itération N° 719 Erreur Quadratique Moyenne 0.00089326
+0.370511 secondes 
+itération N° 720 Erreur Quadratique Moyenne 0.000889608
+0.372518 secondes 
+itération N° 721 Erreur Quadratique Moyenne 0.000886546
+0.370475 secondes 
+itération N° 722 Erreur Quadratique Moyenne 0.000883097
+0.373666 secondes 
+itération N° 723 Erreur Quadratique Moyenne 0.000879088
+0.370245 secondes 
+itération N° 724 Erreur Quadratique Moyenne 0.000875623
+0.371131 secondes 
+itération N° 725 Erreur Quadratique Moyenne 0.000872231
+0.376894 secondes 
+itération N° 726 Erreur Quadratique Moyenne 0.000871541
+0.376319 secondes 
+itération N° 727 Erreur Quadratique Moyenne 0.000865587
+0.464622 secondes 
+itération N° 728 Erreur Quadratique Moyenne 0.000863002
+0.483305 secondes 
+itération N° 729 Erreur Quadratique Moyenne 0.00085882
+0.478955 secondes 
+itération N° 730 Erreur Quadratique Moyenne 0.000855585
+0.434845 secondes 
+itération N° 731 Erreur Quadratique Moyenne 0.000852524
+0.416742 secondes 
+itération N° 732 Erreur Quadratique Moyenne 0.000849162
+0.423770 secondes 
+itération N° 733 Erreur Quadratique Moyenne 0.000846215
+0.418464 secondes 
+itération N° 734 Erreur Quadratique Moyenne 0.0008428
+0.418738 secondes 
+itération N° 735 Erreur Quadratique Moyenne 0.000842087
+0.416800 secondes 
+itération N° 736 Erreur Quadratique Moyenne 0.000836276
+0.421600 secondes 
+itération N° 737 Erreur Quadratique Moyenne 0.000833143
+0.417567 secondes 
+itération N° 738 Erreur Quadratique Moyenne 0.000830313
+0.416950 secondes 
+itération N° 739 Erreur Quadratique Moyenne 0.000824575
+0.424087 secondes 
+itération N° 740 Erreur Quadratique Moyenne 0.000822372
+0.423080 secondes 
+itération N° 741 Erreur Quadratique Moyenne 0.000820199
+0.424028 secondes 
+itération N° 742 Erreur Quadratique Moyenne 0.000817411
+0.418196 secondes 
+itération N° 743 Erreur Quadratique Moyenne 0.000814303
+0.419992 secondes 
+itération N° 744 Erreur Quadratique Moyenne 0.000811833
+0.429621 secondes 
+itération N° 745 Erreur Quadratique Moyenne 0.000809018
+0.416883 secondes 
+itération N° 746 Erreur Quadratique Moyenne 0.000806082
+0.421481 secondes 
+itération N° 747 Erreur Quadratique Moyenne 0.000803203
+0.420341 secondes 
+itération N° 748 Erreur Quadratique Moyenne 0.000800416
+0.420870 secondes 
+itération N° 749 Erreur Quadratique Moyenne 0.000797534
+0.417788 secondes 
+itération N° 750 Erreur Quadratique Moyenne 0.00079465
+0.416796 secondes 
+itération N° 751 Erreur Quadratique Moyenne 0.000791932
+0.419163 secondes 
+itération N° 752 Erreur Quadratique Moyenne 0.000788953
+0.418060 secondes 
+itération N° 753 Erreur Quadratique Moyenne 0.000786285
+0.420840 secondes 
+itération N° 754 Erreur Quadratique Moyenne 0.000783467
+0.423454 secondes 
+itération N° 755 Erreur Quadratique Moyenne 0.000780745
+0.416062 secondes 
+itération N° 756 Erreur Quadratique Moyenne 0.000778083
+0.425266 secondes 
+itération N° 757 Erreur Quadratique Moyenne 0.000774369
+0.420867 secondes 
+itération N° 758 Erreur Quadratique Moyenne 0.000772539
+0.422176 secondes 
+itération N° 759 Erreur Quadratique Moyenne 0.000769779
+0.421384 secondes 
+itération N° 760 Erreur Quadratique Moyenne 0.000767368
+0.428421 secondes 
+itération N° 761 Erreur Quadratique Moyenne 0.000764681
+0.424591 secondes 
+itération N° 762 Erreur Quadratique Moyenne 0.00076211
+0.419740 secondes 
+itération N° 763 Erreur Quadratique Moyenne 0.000759455
+0.435514 secondes 
+itération N° 764 Erreur Quadratique Moyenne 0.000756855
+0.419334 secondes 
+itération N° 765 Erreur Quadratique Moyenne 0.000754108
+0.422919 secondes 
+itération N° 766 Erreur Quadratique Moyenne 0.000751674
+0.411674 secondes 
+itération N° 767 Erreur Quadratique Moyenne 0.00074897
+0.412072 secondes 
+itération N° 768 Erreur Quadratique Moyenne 0.000746137
+0.420328 secondes 
+itération N° 769 Erreur Quadratique Moyenne 0.000743995
+0.420819 secondes 
+itération N° 770 Erreur Quadratique Moyenne 0.000741492
+0.419310 secondes 
+itération N° 771 Erreur Quadratique Moyenne 0.000739044
+0.421331 secondes 
+itération N° 772 Erreur Quadratique Moyenne 0.000735643
+0.411144 secondes 
+itération N° 773 Erreur Quadratique Moyenne 0.000734221
+0.411138 secondes 
+itération N° 774 Erreur Quadratique Moyenne 0.000731741
+0.413151 secondes 
+itération N° 775 Erreur Quadratique Moyenne 0.000729039
+0.413990 secondes 
+itération N° 776 Erreur Quadratique Moyenne 0.000726566
+0.417768 secondes 
+itération N° 777 Erreur Quadratique Moyenne 0.000724371
+0.412740 secondes 
+itération N° 778 Erreur Quadratique Moyenne 0.000721571
+0.414109 secondes 
+itération N° 779 Erreur Quadratique Moyenne 0.00071665
+0.417570 secondes 
+itération N° 780 Erreur Quadratique Moyenne 0.000716678
+0.412412 secondes 
+itération N° 781 Erreur Quadratique Moyenne 0.000713534
+0.410194 secondes 
+itération N° 782 Erreur Quadratique Moyenne 0.000710357
+0.425647 secondes 
+itération N° 783 Erreur Quadratique Moyenne 0.000709902
+0.409996 secondes 
+itération N° 784 Erreur Quadratique Moyenne 0.000707813
+0.412634 secondes 
+itération N° 785 Erreur Quadratique Moyenne 0.000705548
+0.410024 secondes 
+itération N° 786 Erreur Quadratique Moyenne 0.000702317
+0.409926 secondes 
+itération N° 787 Erreur Quadratique Moyenne 0.000700727
+0.411721 secondes 
+itération N° 788 Erreur Quadratique Moyenne 0.000698128
+0.410398 secondes 
+itération N° 789 Erreur Quadratique Moyenne 0.00069526
+0.413615 secondes 
+itération N° 790 Erreur Quadratique Moyenne 0.000694052
+0.410820 secondes 
+itération N° 791 Erreur Quadratique Moyenne 0.000689865
+0.409999 secondes 
+itération N° 792 Erreur Quadratique Moyenne 0.000689172
+0.411223 secondes 
+itération N° 793 Erreur Quadratique Moyenne 0.000686359
+0.409934 secondes 
+itération N° 794 Erreur Quadratique Moyenne 0.000684598
+0.410867 secondes 
+itération N° 795 Erreur Quadratique Moyenne 0.000683046
+0.411016 secondes 
+itération N° 796 Erreur Quadratique Moyenne 0.000675291
+0.379836 secondes 
+itération N° 797 Erreur Quadratique Moyenne 0.000678304
+0.365515 secondes 
+itération N° 798 Erreur Quadratique Moyenne 0.000676538
+0.364852 secondes 
+itération N° 799 Erreur Quadratique Moyenne 0.00067469
+0.369389 secondes 
+itération N° 800 Erreur Quadratique Moyenne 0.000671947
+0.364872 secondes 
+itération N° 801 Erreur Quadratique Moyenne 0.000670444
+0.364391 secondes 
+itération N° 802 Erreur Quadratique Moyenne 0.000668055
+0.365470 secondes 
+itération N° 803 Erreur Quadratique Moyenne 0.000665948
+0.364527 secondes 
+itération N° 804 Erreur Quadratique Moyenne 0.000662385
+0.364363 secondes 
+itération N° 805 Erreur Quadratique Moyenne 0.00066181
+0.364909 secondes 
+itération N° 806 Erreur Quadratique Moyenne 0.000658231
+0.364627 secondes 
+itération N° 807 Erreur Quadratique Moyenne 0.000654742
+0.364379 secondes 
+itération N° 808 Erreur Quadratique Moyenne 0.000655622
+0.365686 secondes 
+itération N° 809 Erreur Quadratique Moyenne 0.000653848
+0.364622 secondes 
+itération N° 810 Erreur Quadratique Moyenne 0.000651994
+0.368131 secondes 
+itération N° 811 Erreur Quadratique Moyenne 0.000649827
+0.364766 secondes 
+itération N° 812 Erreur Quadratique Moyenne 0.000648055
+0.364473 secondes 
+itération N° 813 Erreur Quadratique Moyenne 0.00064607
+0.364940 secondes 
+itération N° 814 Erreur Quadratique Moyenne 0.000641376
+0.364683 secondes 
+itération N° 815 Erreur Quadratique Moyenne 0.000639303
+0.364475 secondes 
+itération N° 816 Erreur Quadratique Moyenne 0.000639758
+0.364888 secondes 
+itération N° 817 Erreur Quadratique Moyenne 0.000634504
+0.364692 secondes 
+itération N° 818 Erreur Quadratique Moyenne 0.000636023
+0.364565 secondes 
+itération N° 819 Erreur Quadratique Moyenne 0.000634745
+0.364606 secondes 
+itération N° 820 Erreur Quadratique Moyenne 0.000634917
+0.364477 secondes 
+itération N° 821 Erreur Quadratique Moyenne 0.000631592
+0.367549 secondes 
+itération N° 822 Erreur Quadratique Moyenne 0.000630354
+0.364616 secondes 
+itération N° 823 Erreur Quadratique Moyenne 0.000626944
+0.364704 secondes 
+itération N° 824 Erreur Quadratique Moyenne 0.000625326
+0.366526 secondes 
+itération N° 825 Erreur Quadratique Moyenne 0.000623419
+0.365127 secondes 
+itération N° 826 Erreur Quadratique Moyenne 0.000621462
+0.364906 secondes 
+itération N° 827 Erreur Quadratique Moyenne 0.000622314
+0.368628 secondes 
+itération N° 828 Erreur Quadratique Moyenne 0.000617518
+0.364523 secondes 
+itération N° 829 Erreur Quadratique Moyenne 0.000615785
+0.364617 secondes 
+itération N° 830 Erreur Quadratique Moyenne 0.000613972
+0.364879 secondes 
+itération N° 831 Erreur Quadratique Moyenne 0.000612226
+0.364574 secondes 
+itération N° 832 Erreur Quadratique Moyenne 0.000611333
+0.366756 secondes 
+itération N° 833 Erreur Quadratique Moyenne 0.000608229
+0.366112 secondes 
+itération N° 834 Erreur Quadratique Moyenne 0.000606805
+0.364662 secondes 
+itération N° 835 Erreur Quadratique Moyenne 0.000605392
+0.364970 secondes 
+itération N° 836 Erreur Quadratique Moyenne 0.000603502
+0.364861 secondes 
+itération N° 837 Erreur Quadratique Moyenne 0.000601613
+0.365174 secondes 
+itération N° 838 Erreur Quadratique Moyenne 0.000600411
+0.366779 secondes 
+itération N° 839 Erreur Quadratique Moyenne 0.000598117
+0.364956 secondes 
+itération N° 840 Erreur Quadratique Moyenne 0.000596278
+0.366735 secondes 
+itération N° 841 Erreur Quadratique Moyenne 0.000594568
+0.365304 secondes 
+itération N° 842 Erreur Quadratique Moyenne 0.000593288
+0.368523 secondes 
+itération N° 843 Erreur Quadratique Moyenne 0.000591201
+0.368264 secondes 
+itération N° 844 Erreur Quadratique Moyenne 0.000589535
+0.365422 secondes 
+itération N° 845 Erreur Quadratique Moyenne 0.000590559
+0.365182 secondes 
+itération N° 846 Erreur Quadratique Moyenne 0.00058634
+0.368087 secondes 
+itération N° 847 Erreur Quadratique Moyenne 0.000584889
+0.364710 secondes 
+itération N° 848 Erreur Quadratique Moyenne 0.000582819
+0.364459 secondes 
+itération N° 849 Erreur Quadratique Moyenne 0.000581126
+0.368411 secondes 
+itération N° 850 Erreur Quadratique Moyenne 0.000579457
+0.365152 secondes 
+itération N° 851 Erreur Quadratique Moyenne 0.000577921
+0.367765 secondes 
+itération N° 852 Erreur Quadratique Moyenne 0.000576323
+0.364560 secondes 
+itération N° 853 Erreur Quadratique Moyenne 0.000574609
+0.366819 secondes 
+itération N° 854 Erreur Quadratique Moyenne 0.000573623
+0.369752 secondes 
+itération N° 855 Erreur Quadratique Moyenne 0.000571546
+0.371033 secondes 
+itération N° 856 Erreur Quadratique Moyenne 0.000570015
+0.382595 secondes 
+itération N° 857 Erreur Quadratique Moyenne 0.000568198
+0.377052 secondes 
+itération N° 858 Erreur Quadratique Moyenne 0.000566633
+0.365106 secondes 
+itération N° 859 Erreur Quadratique Moyenne 0.000565033
+0.365738 secondes 
+itération N° 860 Erreur Quadratique Moyenne 0.00056331
+0.373646 secondes 
+itération N° 861 Erreur Quadratique Moyenne 0.000561929
+0.364640 secondes 
+itération N° 862 Erreur Quadratique Moyenne 0.000560424
+0.367215 secondes 
+itération N° 863 Erreur Quadratique Moyenne 0.000558776
+0.364818 secondes 
+itération N° 864 Erreur Quadratique Moyenne 0.000557178
+0.441874 secondes 
+itération N° 865 Erreur Quadratique Moyenne 0.000555713
+0.477660 secondes 
+itération N° 866 Erreur Quadratique Moyenne 0.000554394
+0.468692 secondes 
+itération N° 867 Erreur Quadratique Moyenne 0.000552791
+0.472927 secondes 
+itération N° 868 Erreur Quadratique Moyenne 0.000551395
+0.428918 secondes 
+itération N° 869 Erreur Quadratique Moyenne 0.000549876
+0.425285 secondes 
+itération N° 870 Erreur Quadratique Moyenne 0.000548415
+0.415965 secondes 
+itération N° 871 Erreur Quadratique Moyenne 0.000546628
+0.423938 secondes 
+itération N° 872 Erreur Quadratique Moyenne 0.000545326
+0.417374 secondes 
+itération N° 873 Erreur Quadratique Moyenne 0.000543988
+0.422216 secondes 
+itération N° 874 Erreur Quadratique Moyenne 0.000542493
+0.414389 secondes 
+itération N° 875 Erreur Quadratique Moyenne 0.00054088
+0.412587 secondes 
+itération N° 876 Erreur Quadratique Moyenne 0.000539588
+0.418935 secondes 
+itération N° 877 Erreur Quadratique Moyenne 0.000538098
+0.413235 secondes 
+itération N° 878 Erreur Quadratique Moyenne 0.000536745
+0.417133 secondes 
+itération N° 879 Erreur Quadratique Moyenne 0.000535348
+0.412412 secondes 
+itération N° 880 Erreur Quadratique Moyenne 0.000533747
+0.410684 secondes 
+itération N° 881 Erreur Quadratique Moyenne 0.000532391
+0.412959 secondes 
+itération N° 882 Erreur Quadratique Moyenne 0.000530938
+0.419140 secondes 
+itération N° 883 Erreur Quadratique Moyenne 0.000530194
+0.417991 secondes 
+itération N° 884 Erreur Quadratique Moyenne 0.00052803
+0.410512 secondes 
+itération N° 885 Erreur Quadratique Moyenne 0.000526703
+0.436952 secondes 
+itération N° 886 Erreur Quadratique Moyenne 0.000525293
+0.415843 secondes 
+itération N° 887 Erreur Quadratique Moyenne 0.000523957
+0.412965 secondes 
+itération N° 888 Erreur Quadratique Moyenne 0.000522692
+0.468097 secondes 
+itération N° 889 Erreur Quadratique Moyenne 0.000521337
+0.416351 secondes 
+itération N° 890 Erreur Quadratique Moyenne 0.000519844
+0.414041 secondes 
+itération N° 891 Erreur Quadratique Moyenne 0.000518499
+0.417808 secondes 
+itération N° 892 Erreur Quadratique Moyenne 0.000517195
+0.421361 secondes 
+itération N° 893 Erreur Quadratique Moyenne 0.000515904
+0.418491 secondes 
+itération N° 894 Erreur Quadratique Moyenne 0.000514484
+0.412554 secondes 
+itération N° 895 Erreur Quadratique Moyenne 0.000513798
+0.424286 secondes 
+itération N° 896 Erreur Quadratique Moyenne 0.000511519
+0.417452 secondes 
+itération N° 897 Erreur Quadratique Moyenne 0.000510355
+0.395812 secondes 
+itération N° 898 Erreur Quadratique Moyenne 0.00050913
+0.371602 secondes 
+itération N° 899 Erreur Quadratique Moyenne 0.000507791
+0.367223 secondes 
+itération N° 900 Erreur Quadratique Moyenne 0.000506583
+0.367068 secondes 
+itération N° 901 Erreur Quadratique Moyenne 0.00050514
+0.369595 secondes 
+itération N° 902 Erreur Quadratique Moyenne 0.000503984
+0.368061 secondes 
+itération N° 903 Erreur Quadratique Moyenne 0.000502566
+0.368666 secondes 
+itération N° 904 Erreur Quadratique Moyenne 0.000501351
+0.369002 secondes 
+itération N° 905 Erreur Quadratique Moyenne 0.000500076
+0.370268 secondes 
+itération N° 906 Erreur Quadratique Moyenne 0.000498149
+0.378368 secondes 
+itération N° 907 Erreur Quadratique Moyenne 0.000497582
+0.366089 secondes 
+itération N° 908 Erreur Quadratique Moyenne 0.000496419
+0.366229 secondes 
+itération N° 909 Erreur Quadratique Moyenne 0.000495205
+0.367329 secondes 
+itération N° 910 Erreur Quadratique Moyenne 0.000494026
+0.366134 secondes 
+itération N° 911 Erreur Quadratique Moyenne 0.000492816
+0.473632 secondes 
+itération N° 912 Erreur Quadratique Moyenne 0.000491555
+0.471571 secondes 
+itération N° 913 Erreur Quadratique Moyenne 0.000490307
+0.480447 secondes 
+itération N° 914 Erreur Quadratique Moyenne 0.000489071
+0.469074 secondes 
+itération N° 915 Erreur Quadratique Moyenne 0.000487847
+0.469096 secondes 
+itération N° 916 Erreur Quadratique Moyenne 0.000486632
+0.471234 secondes 
+itération N° 917 Erreur Quadratique Moyenne 0.000485421
+0.410777 secondes 
+itération N° 918 Erreur Quadratique Moyenne 0.000484216
+0.414488 secondes 
+itération N° 919 Erreur Quadratique Moyenne 0.000483017
+0.410309 secondes 
+itération N° 920 Erreur Quadratique Moyenne 0.00048182
+0.415055 secondes 
+itération N° 921 Erreur Quadratique Moyenne 0.000480629
+0.410380 secondes 
+itération N° 922 Erreur Quadratique Moyenne 0.000479447
+0.410707 secondes 
+itération N° 923 Erreur Quadratique Moyenne 0.000478268
+0.411965 secondes 
+itération N° 924 Erreur Quadratique Moyenne 0.000477298
+0.410653 secondes 
+itération N° 925 Erreur Quadratique Moyenne 0.000475966
+0.412694 secondes 
+itération N° 926 Erreur Quadratique Moyenne 0.00047478
+0.410574 secondes 
+itération N° 927 Erreur Quadratique Moyenne 0.000473611
+0.410438 secondes 
+itération N° 928 Erreur Quadratique Moyenne 0.000472457
+0.414525 secondes 
+itération N° 929 Erreur Quadratique Moyenne 0.000471308
+0.411592 secondes 
+itération N° 930 Erreur Quadratique Moyenne 0.000470162
+0.420292 secondes 
+itération N° 931 Erreur Quadratique Moyenne 0.000469025
+0.410536 secondes 
+itération N° 932 Erreur Quadratique Moyenne 0.000467892
+0.412611 secondes 
+itération N° 933 Erreur Quadratique Moyenne 0.000466764
+0.410738 secondes 
+itération N° 934 Erreur Quadratique Moyenne 0.000465641
+0.410438 secondes 
+itération N° 935 Erreur Quadratique Moyenne 0.000464519
+0.414120 secondes 
+itération N° 936 Erreur Quadratique Moyenne 0.000463404
+0.418936 secondes 
+itération N° 937 Erreur Quadratique Moyenne 0.000462294
+0.412038 secondes 
+itération N° 938 Erreur Quadratique Moyenne 0.000461189
+0.411917 secondes 
+itération N° 939 Erreur Quadratique Moyenne 0.000460088
+0.411896 secondes 
+itération N° 940 Erreur Quadratique Moyenne 0.000458994
+0.414744 secondes 
+itération N° 941 Erreur Quadratique Moyenne 0.000457901
+0.418223 secondes 
+itération N° 942 Erreur Quadratique Moyenne 0.000456817
+0.422553 secondes 
+itération N° 943 Erreur Quadratique Moyenne 0.000455736
+0.410615 secondes 
+itération N° 944 Erreur Quadratique Moyenne 0.000454656
+0.420930 secondes 
+itération N° 945 Erreur Quadratique Moyenne 0.000453581
+0.410359 secondes 
+itération N° 946 Erreur Quadratique Moyenne 0.000452513
+0.410339 secondes 
+itération N° 947 Erreur Quadratique Moyenne 0.000451445
+0.414572 secondes 
+itération N° 948 Erreur Quadratique Moyenne 0.000450385
+0.410310 secondes 
+itération N° 949 Erreur Quadratique Moyenne 0.00044933
+0.414883 secondes 
+itération N° 950 Erreur Quadratique Moyenne 0.000448278
+0.411816 secondes 
+itération N° 951 Erreur Quadratique Moyenne 0.00044723
+0.411995 secondes 
+itération N° 952 Erreur Quadratique Moyenne 0.000446187
+0.414489 secondes 
+itération N° 953 Erreur Quadratique Moyenne 0.00044515
+0.410316 secondes 
+itération N° 954 Erreur Quadratique Moyenne 0.000444115
+0.414524 secondes 
+itération N° 955 Erreur Quadratique Moyenne 0.000443083
+0.427342 secondes 
+itération N° 956 Erreur Quadratique Moyenne 0.000442057
+0.435559 secondes 
+itération N° 957 Erreur Quadratique Moyenne 0.000441051
+0.448821 secondes 
+itération N° 958 Erreur Quadratique Moyenne 0.000440023
+0.420218 secondes 
+itération N° 959 Erreur Quadratique Moyenne 0.000438998
+0.420309 secondes 
+itération N° 960 Erreur Quadratique Moyenne 0.000437987
+0.417313 secondes 
+itération N° 961 Erreur Quadratique Moyenne 0.000436982
+0.417836 secondes 
+itération N° 962 Erreur Quadratique Moyenne 0.00043598
+0.415611 secondes 
+itération N° 963 Erreur Quadratique Moyenne 0.000434982
+0.416353 secondes 
+itération N° 964 Erreur Quadratique Moyenne 0.00043399
+0.440214 secondes 
+itération N° 965 Erreur Quadratique Moyenne 0.000433022
+0.413466 secondes 
+itération N° 966 Erreur Quadratique Moyenne 0.000432018
+0.426661 secondes 
+itération N° 967 Erreur Quadratique Moyenne 0.00043103
+0.422136 secondes 
+itération N° 968 Erreur Quadratique Moyenne 0.000430052
+0.418284 secondes 
+itération N° 969 Erreur Quadratique Moyenne 0.000429077
+0.411849 secondes 
+itération N° 970 Erreur Quadratique Moyenne 0.000428107
+0.412480 secondes 
+itération N° 971 Erreur Quadratique Moyenne 0.000420346
+0.415725 secondes 
+itération N° 972 Erreur Quadratique Moyenne 0.000423236
+0.412313 secondes 
+itération N° 973 Erreur Quadratique Moyenne 0.000425248
+0.416338 secondes 
+itération N° 974 Erreur Quadratique Moyenne 0.000424677
+0.412888 secondes 
+itération N° 975 Erreur Quadratique Moyenne 0.000423692
+0.417835 secondes 
+itération N° 976 Erreur Quadratique Moyenne 0.00042268
+0.413993 secondes 
+itération N° 977 Erreur Quadratique Moyenne 0.000421683
+0.419061 secondes 
+itération N° 978 Erreur Quadratique Moyenne 0.000420738
+0.415290 secondes 
+itération N° 979 Erreur Quadratique Moyenne 0.000419714
+0.419310 secondes 
+itération N° 980 Erreur Quadratique Moyenne 0.000418748
+0.435041 secondes 
+itération N° 981 Erreur Quadratique Moyenne 0.0004178
+0.412401 secondes 
+itération N° 982 Erreur Quadratique Moyenne 0.000416867
+0.413142 secondes 
+itération N° 983 Erreur Quadratique Moyenne 0.000415916
+0.415699 secondes 
+itération N° 984 Erreur Quadratique Moyenne 0.000415022
+0.410787 secondes 
+itération N° 985 Erreur Quadratique Moyenne 0.000414063
+0.429339 secondes 
+itération N° 986 Erreur Quadratique Moyenne 0.000417995
+0.461745 secondes 
+itération N° 987 Erreur Quadratique Moyenne 0.000412574
+0.534205 secondes 
+itération N° 988 Erreur Quadratique Moyenne 0.000411324
+0.448026 secondes 
+itération N° 989 Erreur Quadratique Moyenne 0.000410389
+0.454089 secondes 
+itération N° 990 Erreur Quadratique Moyenne 0.000409496
+0.543563 secondes 
+itération N° 991 Erreur Quadratique Moyenne 0.000408585
+0.414275 secondes 
+itération N° 992 Erreur Quadratique Moyenne 0.00040778
+0.413390 secondes 
+itération N° 993 Erreur Quadratique Moyenne 0.00040774
+0.410197 secondes 
+itération N° 994 Erreur Quadratique Moyenne 0.000406109
+0.418269 secondes 
+itération N° 995 Erreur Quadratique Moyenne 0.000408827
+0.410712 secondes 
+itération N° 996 Erreur Quadratique Moyenne 0.000403764
+0.420833 secondes 
+itération N° 997 Erreur Quadratique Moyenne 0.000403009
+0.412279 secondes 
+itération N° 998 Erreur Quadratique Moyenne 0.000402615
+0.413106 secondes 
+itération N° 999 Erreur Quadratique Moyenne 0.000401484
+0.414483 secondes 
+itération N° 1000 Erreur Quadratique Moyenne 0.000401279
+0.419665 secondes 
+403.958913 Temps total 
+ fin de l'apprentissage dans >1000 itération
+Nom du fichier pour enregistrer les poids synaptiques : pour faire un test 
+Nom du fichier contenant  les poids synaptiques : entrer le fichier contenant la base de test 
+le nombre d'exemples  de test Appliance N°0
+0.999598   0.000420093   0.0011111   
+Appliance N°0
+1   6.55426e-07   0.00399087   
+Appliance N°0
+0.999945   6.36828e-05   0.0011801   
+Appliance N°0
+0.99977   0.000238802   0.00129097   
+Appliance N°0
+0.999977   2.66515e-05   0.00161697   
+Appliance N°0
+0.999995   5.61672e-06   0.00271996   
+Appliance N°0
+0.99998   2.35941e-05   0.00166667   
+Appliance N°0
+0.999998   2.43136e-06   0.00358859   
+Appliance N°1
+0.000640007   0.999335   5.65276e-06   
+Appliance N°1
+0.000124863   0.0290586   0.988609   
+Appliance N°1
+0.000164757   0.999879   0.000105082   
+Appliance N°1
+0.388542   0.816403   3.11466e-05   
+Appliance N°1
+0.0371369   0.968858   1.97691e-05   
+Appliance N°1
+0.0757748   0.954741   2.0031e-05   
+Appliance N°1
+0.000805124   0.999578   4.41658e-06   
+Appliance N°1
+0.0279279   0.995527   0.000196089   
+Appliance N°1
+0.000201079   0.0177667   0.993227   
+Appliance N°1
+4.08123e-07   1   0.000492838   
+Appliance N°1
+0.0142526   0.98704   1.80727e-05   
+Appliance N°1
+0.0223768   0.98618   2.55843e-05   
+Appliance N°1
+0.0417211   0.975571   1.66446e-05   
+Appliance N°1
+0.00200428   0.997973   6.99513e-06   
+Appliance N°1
+1.34496e-05   0.999959   0.11833   
+Appliance N°1
+1.3335e-05   0.999494   0.0170297   
+Appliance N°1
+0.0190356   0.988401   2.31794e-05   
+Appliance N°1
+0.0673838   0.94305   6.22325e-05   
+Appliance N°1
+0.00655645   0.994425   2.70616e-05   
+Appliance N°1
+0.00105995   0.999437   4.44066e-06   
+Appliance N°1
+7.42321e-05   0.999991   0.00654224   
+Appliance N°1
+0.000136092   0.0267573   0.987515   
+Appliance N°1
+0.000275737   0.999757   0.000420182   
+Appliance N°1
+0.0157123   0.992854   1.35421e-05   
+Appliance N°1
+0.0224789   0.988233   9.35878e-06   
+Appliance N°1
+0.0028196   0.999119   3.83122e-06   
+Appliance N°1
+7.39867e-06   1   0.000225738   
+Appliance N°1
+0.0011468   0.99853   0.000739216   
+Appliance N°1
+0.0515392   0.969767   1.47003e-05   
+Appliance N°1
+0.136407   0.996423   3.3751e-07   
+Appliance N°2
+0.00138043   0.0065337   0.980648   
+Appliance N°2
+0.00279918   0.00245215   0.992455   
+Appliance N°2
+0.00294433   0.00232184   0.992945   
+Appliance N°2
+0.00208086   0.00637517   0.985202   
+Appliance N°2
+0.00111864   0.00460767   0.994987   
+Appliance N°2
+0.00158168   0.00665782   0.988419   
+Appliance N°2
+0.00257088   0.00320598   0.991174   
+Appliance N°2
+0.00732752   0.000830682   0.997431   
+Appliance N°2
+0.0015748   0.00885014   0.97984   
+Appliance N°2
+0.00316479   0.00654504   0.970209   
+Appliance N°2
+0.00348953   0.00346697   0.990266   
+Appliance N°2
+0.00532546   0.00068671   0.996898   
+Appliance N°2
+0.00179021   0.00411411   0.992021   
+Appliance N°2
+0.00523137   0.00230649   0.986878   
+Appliance N°2
+0.00297907   0.00237351   0.993388   
+Appliance N°2
+0.0029238   0.004037   0.986238   
+Appliance N°2
+0.0260807   0.000430479   0.995329   
+Appliance N°2
+0.00550131   0.000908017   0.996818   
+Appliance N°2
+0.00401042   0.00313134   0.987413   
+Appliance N°2
+0.00406946   0.00186697   0.992189   
+Appliance N°2
+0.00420142   0.00204517   0.993599   
+Appliance N°2
+0.00147489   0.0106766   0.968886   
+Appliance N°2
+0.00519129   0.00139719   0.992238   
+Appliance N°2
+0.00314145   0.00310781   0.990417   
+Appliance N°2
+0.00290127   0.00349589   0.990367   
+Appliance N°2
+0.00308461   0.00273905   0.991449   
+Appliance N°2
+0.00392663   0.000793512   0.997993   
+Appliance N°2
+0.0084257   0.00212238   0.983416   
+Appliance N°2
+0.0055147   0.00130337   0.994181   
+Appliance N°2
+0.00356227   0.00173613   0.995333   
+
+
+Le taux de reconnaissance  par la méthode de seuil ------------------->90  % 
+
+
+Le taux de reconnaissance  par la methode the Winner Takes All (WTA)-->96  % 
+
+
