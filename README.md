@@ -1,6 +1,7 @@
 Sur un terminal linux :
 
 g++ main.cpp pmc.cpp -o exec
+
 ./exec
 
 Veuillez fournir les informations suivante par ordre :
